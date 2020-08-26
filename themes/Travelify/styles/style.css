@@ -596,6 +596,12 @@ a.more-link:hover {
   font-size: 2em;
 }
 
+#site-date {
+  font: 36px 'Open Sans', sans-serif;
+  line-height: 42px;
+  font-size: 1.5em;
+}
+
 #site-description {
     font: 14px helvetica, Arial, sans-serif;
     line-height: 20px;

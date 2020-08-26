@@ -29,5 +29,8 @@ Setiap peserta OKA harus mengikuti setiap acara yang sudah dipersiapkan oleh pan
         <tr>
             <td>Pastikan Anda sudah masuk kedalam grup sesuai program studi masing-masing</td>
         </tr>
+        <tr>
+            <td>Periksa tanggal kegiatan OKA pada masing-masing tahap</td>
+        </tr>
     </tbody>
 </table>
