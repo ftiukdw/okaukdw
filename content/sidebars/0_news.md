@@ -1,6 +1,6 @@
 ---
-title: News
+title: Pelaksanaan OKA 2020
 ---
- * News 1.
- * News 2.
- * News 3.
+ * [Tahap 1](%base_url%?tahap1)
+ * Tahap 2
+ * Tahap 3

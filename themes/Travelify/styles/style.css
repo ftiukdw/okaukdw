@@ -557,8 +557,8 @@ a.more-link:hover {
 }
 
 .hgroup-wrap {
-    padding-top: 15px;
-    padding-bottom: 35px;
+    padding-top: 0;
+    padding-bottom: 15px;
 }
 
 .hgroup-wrap a {
@@ -568,6 +568,7 @@ a.more-link:hover {
 #site-logo {
     float: left;
     margin-top: 32px;
+    width: 100%;
 }
 
 #site-title {
@@ -587,6 +588,12 @@ a.more-link:hover {
 
 #site-title a span, #site-title a:hover, #site-title a:focus, #site-title a:active {
     color: #439f55;
+}
+
+#site-subtitle {
+  font: 36px 'Open Sans', sans-serif;
+  line-height: 42px;
+  font-size: 2em;
 }
 
 #site-description {
@@ -2504,4 +2511,9 @@ blockquote {
 #controllers a:hover,
 #controllers a.active {
     color: #3a73c9;
+}
+
+#logo-oka {
+    float:left;
+    margin-right: 10px;
 }

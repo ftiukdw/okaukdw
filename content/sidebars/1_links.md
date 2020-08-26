@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Link Penting
 ---
 
  * [Universitas Kristen Duta Wacana](https://www.ukdw.ac.id/)
