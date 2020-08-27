@@ -28,7 +28,7 @@ Description: Halaman OKA UKDW 2020
 	</tr>
         <tr>
             <td rowspan="2">Rabu, 9 September 2020</td>
-            <td>Materi Kampus Merdeka</td>
+            <td>Materi Kampus Merdeka &amp; Bela Negara</td>
         </tr>
         <tr>
 	    <td>Aktivitas bersama MAPEN<br/>
