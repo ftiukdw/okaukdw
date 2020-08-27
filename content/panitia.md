@@ -68,5 +68,23 @@
 			* Ni Komang Ayulia Sari (Fakultas Kedokteran)<br/>
 			* Damalan Kristia Manalu (Fakultas Kependidikan dan Humaniora)</td>
 		</tr>
+		<tr>
+			<td>Mahasiswa Pendamping Fakultas Teknologi Informasi</td>
+			<td>*  Alex Septimand Gulo (72190349)<br/>
+			* Herling Yan Bridny Kalangi (72190307)<br/>
+			* Yohanes Vito Rizki Darujati (71190429)<br/>
+			* Harris Kurniadi S (71190434)<br/>
+			* Kristofan Feriadi (71180291)<br/>
+			* Nafarel Triyoga Mas Kuncoro (71180336)<br/>
+			* Gabriel Imanuel Tumakaka (71190427)<br/>
+			* Nadia Angelica Nugroho (72180200)<br/>
+			* Gracia Zerlinda Puspita (72190278)<br/>
+			* Christian Octavico Kuncoro (72190280)<br/>
+			* Yabes Qinen Yehdeya (71180350)<br/>
+			* Yanita Prasetya Nugraha (72190299)<br/>
+			* Henrikus Karel Dwiputra (72190327)<br/>
+			* Stevani Dwi Utomo (71180258)<br/>
+			* Natasya Tjandra Raharjda (71180321)<br/>
+			* Ristri Krisnugraheni (72180204)</td>
 	</tbody>
 </table>
