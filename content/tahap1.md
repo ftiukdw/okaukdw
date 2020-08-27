@@ -34,7 +34,7 @@ Description: Halaman OKA UKDW 2020
         <tr>
 	    <td>Aktivitas bersama MAPEN<br/>
 		* Mengenal kampus UKDW (virtual tour)<br/>
-		* Memahami informas KRS</td>
+		* Memahami informasi KRS</td>
 	</tr>
         <tr>
             <td rowspan="2">Kamis, 10 September 2020</td>
