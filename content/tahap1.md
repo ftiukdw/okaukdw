@@ -24,6 +24,7 @@ Description: Halaman OKA UKDW 2020
 		* Aktivasi email @students<br/>
 		* Aktivasi akun SSAT + E-Class<br/>
 		* Registrasi akun e-Learning (Moodle)<br/>
+		* Bergabung dengan kelas OKA 2020<br/>
 		* Aktivasi Office 365</td>
 	</tr>
         <tr>
