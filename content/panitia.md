@@ -86,5 +86,23 @@
 			* Stevani Dwi Utomo (71180258)<br/>
 			* Natasya Tjandra Raharjda (71180321)<br/>
 			* Ristri Krisnugraheni (72180204)</td>
+		</tr>
+		<tr>
+			<td>Mahasiswa Pendamping Fakultas Bioteknologi</td>
+			<td>* Widya Siskya Patanduk (31180210)<br/>
+			* Enjelin Anjung Susilowati (31190321)<br/>
+			* Vannya Sekar Damayanti (31190323)<br/>			
+			* Denma Cahya Damsita (31180200)<br/>
+			* Astrid Ayu Sekar (31180248)<br/>
+			* Devina Puspita Sari (31190271)<br/>
+			* Kristisarah Pirena (31190272)<br/>
+			* Eunike Dian Swastoko (31190276)<br/>
+			* Primadian Harmastuti (31190289)<br/>
+			* Yesika Prisilia Putri (31190299)<br/>
+			* Dinny Widya Alvany (31190308)<br/>
+			* Mega Saputri (31190322)<br/>
+			* Kezia Yovanka Irawan (31180241)<br/>
+			* Agnes Nataly Putri A. (31190338)</td>
+		</tr>
 	</tbody>
 </table>
