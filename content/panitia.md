@@ -122,8 +122,8 @@
 			* Michelle (61180355)<br/>
 			* Bethania Yunike Fridianti (61180389)<br/>
 			* Glan Aryaputra Prabawa (61180291)<br/>
-			* Widya Veronica Pasaribu<br/>
-			* Sheryn Meivy</td>
+			* Widya Veronica Pasaribu (61190433)<br/>
+			* Sheryn Meivy (61190472)</td>
 		</tr>
 		<tr>
 			<td>Mahasiswa Pendamping Fakultas Kedokteran</td>
