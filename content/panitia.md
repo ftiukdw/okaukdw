@@ -66,7 +66,7 @@
 			* Carmen (Fakultas Arsitektur dan Desain)<br/>
 			* Jesslyn Septhia (Fakultas Teknologi Informasi)<br/>
 			* Ni Komang Ayulia Sari (Fakultas Kedokteran)<br/>
-			* Irene Damalan Kristia Manalu (Fakultas Kependidikan dan Humaniora)</td>
+			* Irene Damaian Kristia Manalu (Fakultas Kependidikan dan Humaniora)</td>
 		</tr>
 		<tr>
 			<td>Mahasiswa Pendamping Fakultas Teknologi Informasi</td>
