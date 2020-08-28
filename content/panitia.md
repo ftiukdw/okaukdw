@@ -113,6 +113,15 @@
 			* Iin Juniarti (81180045)<br/>
 			* Melisa Rizky Maharani (81190061)</td>
 		</tr>
-			
+		<tr>
+			<td>Mahasiswa Pendamping Fakultas Arsitektur dan Desain</td>
+			<td>*Meliyani Irnawati (62180072)<br/>
+			* Yosia Yamaguchi Kristiono (62180078)<br/>
+			* Ricky Hasta Ivan Pratama (62180069)<br/>
+			* Lintang Lokeswara (61180294)<br/>
+			* Michelle (61180355)<br/>
+			* Bethania Yunike Fridianti (61180389)<br/>
+			* Glan Aryaputra Prabawa (61180291)</td>
+		</tr>
 	</tbody>
 </table>
