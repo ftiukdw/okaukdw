@@ -104,5 +104,15 @@
 			* Kezia Yovanka Irawan (31180241)<br/>
 			* Agnes Nataly Putri A. (31190338)</td>
 		</tr>
+		<tr>
+			<td>Mahasiwa Pendamping Fakultas Kependidikan dan Humaniora</td>
+			<td>* Nixon Wibawa Tosadu (81190067)<br/>
+			* Siaga Adi Satoto (81180048)<br/>
+			* Reni Andriani (81180032)<br/>
+			* Azharia Bena Alifia (81190077)<br/>
+			* Iin Juniarti (81180045)<br/>
+			* Melisa Rizky Maharani (81190061)</td>
+		</tr>
+			
 	</tbody>
 </table>
