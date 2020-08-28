@@ -7,3 +7,4 @@ title: Link Penting
  * [E-Class UKDW](https://eclass.ukdw.ac.id/)
  * [E-Learning UKDW](https://elearning.ukdw.ac.id/)
  * [Panduan Office 365](https://www.ukdw.ac.id/office365/)
+ * [Pusat Unduhan](https://www.ukdw.ac.id/pusat-unduhan/)
