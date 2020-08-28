@@ -21,11 +21,10 @@ Description: Halaman OKA UKDW 2020
         </tr>
         <tr>
 	    <td>Aktivitas bersama MAPEN<br/>
-		* Aktivasi email @students<br/>
-		* Aktivasi akun SSAT + E-Class<br/>
-		* Registrasi akun e-Learning (Moodle)<br/>
+		* Aktivasi email <a href="https://ssat.ukdw.ac.id/">@students, SSAT, dan E-Class</a><br/>
+		* Registrasi akun <a href="https://elearning.ukdw.ac.id/">e-Learning (Moodle)</a><br/>
 		* Bergabung dengan kelas OKA 2020<br/>
-		* Aktivasi Office 365</td>
+		* Aktivasi <a href="https://www.ukdw.ac.id/office365/">Office 365</a></td>
 	</tr>
         <tr>
             <td rowspan="2">Rabu, 9 September 2020</td>
