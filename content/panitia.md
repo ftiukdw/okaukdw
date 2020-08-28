@@ -123,5 +123,18 @@
 			* Bethania Yunike Fridianti (61180389)<br/>
 			* Glan Aryaputra Prabawa (61180291)</td>
 		</tr>
+		<tr>
+			<td>Mahasiswa Pendamping Fakultas Kedokteran</td>
+			<td>* Caga Darika Triroso (41190396)<br/>
+			* Edgar Priambudi Pulupina (41190367)<br/>
+			* Nathania Tirza Damaris (41190327)<br/>
+			* Caraka Randi Yusuf (41190339)<br/>
+			* Vian Kirsta Davena (41190375)<br/>
+			* Yutta Larasati (41190391)<br/>
+			* Elvitaria Zalukhu (41190370)<br/>
+			* Ni Ketut Candra Rahayu (41190354)<br/>
+			* Lucas Julisar Selawa (41190378)<br/>
+			* Christina Elsa Manuela Wibowo (41190414)</td>
+		</tr>
 	</tbody>
 </table>
