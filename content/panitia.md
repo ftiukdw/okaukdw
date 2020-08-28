@@ -136,5 +136,27 @@
 			* Lucas Julisar Selawa (41190378)<br/>
 			* Christina Elsa Manuela Wibowo (41190414)</td>
 		</tr>
+		<tr>
+			<td>Mahasiswa Pendamping Fakultas Teologi</td>
+			<td>* Cristy Kirana Kusumastuti (01190202)<br/>
+			* Robby Rivaldo Nababan (01190206)<br/>
+			* Felliex Yulio Murlyantara (01190194)<br/>
+			* Euaggeliony Fraxiparine Hasian Na Arga (01190224)<br/>
+			* Johannes Suryo Sindhu Putro (01190187)<br/>
+			* Gerrald Mutiha Binsar Michael (01190204)<br/>
+			* Dyah Ayu Kinanti (01190205)<br/>
+			* Hanz Elkasava Girsang (01190228)<br/>
+			* Alfonso Alexander (01180136)<br/>
+			* Kevin Jonathan Darmawan (01180139)<br/> 
+			* Agustinus Abednego Nafthalie Hudzon (01180158)<br/>
+			* Helen Jayanti (01180176)<br/>
+			* Williams Dikjaya (01180163)<br/>
+			* Dwi Lina Agustine (01170074)<br/>
+			* Maria Fransisca (01170080) <br/>
+			* Tri Rahayu (01170082) <br/>
+			* Miaffido Ordinasari (01170089)<br/>
+			* Malemmita Peranginangin (01170097) <br/>
+			* Grace Victoria (011700100) <br/>
+		</tr>
 	</tbody>
 </table>
