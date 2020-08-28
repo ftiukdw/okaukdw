@@ -6,3 +6,4 @@ title: Media Sosial
  * [YouTube](https://www.youtube.com/channel/UC5cKNXrmMhLC8jdbap_ZBbg)
  * [Facebook](https://www.facebook.com/universitaskristen.dutawacana)
  * [Twitter](https://twitter.com/ukdwyogyakarta)
+ * [TikTok](http://tiktok.com/ukdwyogyakarta)
