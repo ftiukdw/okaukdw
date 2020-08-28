@@ -7,7 +7,7 @@
 5. Peserta wajib menggunakan kemeja bebas, rapi, dan sopan selama sesi online.
 6. Peserta dilarang merokok selama mengikuti sesi online.
 7. Peserta wajib mengerjakan tugas yang disiapkan pada halaman [e-Learning UKDW](https://elearning.ukdw.ac.id)
-8. Setiap mahasiswa akan mendapatkan mahasiswa pendamping (mapen) selama kegiatan OKA 2020 berlangsung yang berasal dari program studi masing-masing.
+8. Setiap mahasiswa akan didampingi mahasiswa pendamping (mapen) selama kegiatan OKA 2020 berlangsung yang berasal dari program studi masing-masing.
 9. Peran dari mahasiswa pendamping adalah untuk memfasilitasi mahasiswa baru dalam memahami aktivitas dan prosedur yang harus dilakukan selama kegiatan OKA 2020 berlangsung.
 10. Peserta wajib untuk menjaga sopan santun dan etiket selama berkomunikasi dengan mahasiswa pendamping.
 11. Proses pendampingan oleh mahasiswa pendamping dilaksanakan sampai para mahasiswa baru siap mengikuti perkuliahan secara daring (online) dan melakukan registrasi pada semester genap 2020/2021.
