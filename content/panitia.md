@@ -70,7 +70,7 @@
 		</tr>
 		<tr>
 			<td>Mahasiswa Pendamping Fakultas Teknologi Informasi</td>
-			<td>*  Alex Septimand Gulo (72190349)<br/>
+			<td>* Alex Septimand Gulo (72190349)<br/>
 			* Herling Yan Bridny Kalangi (72190307)<br/>
 			* Yohanes Vito Rizki Darujati (71190429)<br/>
 			* Harris Kurniadi S (71190434)<br/>
@@ -115,7 +115,7 @@
 		</tr>
 		<tr>
 			<td>Mahasiswa Pendamping Fakultas Arsitektur dan Desain</td>
-			<td>*Meliyani Irnawati (62180072)<br/>
+			<td>* Meliyani Irnawati (62180072)<br/>
 			* Yosia Yamaguchi Kristiono (62180078)<br/>
 			* Ricky Hasta Ivan Pratama (62180069)<br/>
 			* Lintang Lokeswara Paramanandana (61180294)<br/>
