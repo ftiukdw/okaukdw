@@ -75,7 +75,7 @@
 			* Yohanes Vito Rizki Darujati (71190429)<br/>
 			* Harris Kurniadi S (71190434)<br/>
 			* Kristofan Feriadi (71180291)<br/>
-			* Nafarel Triyoga Mas Kuncoro (71180336)<br/>
+			* Nafarel Triyoga Maskuncoro (71180336)<br/>
 			* Gabriel Imanuel Tumakaka (71190427)<br/>
 			* Nadia Angelica Nugroho (72180200)<br/>
 			* Gracia Zerlinda Puspita (72190278)<br/>
