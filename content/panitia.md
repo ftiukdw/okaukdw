@@ -62,7 +62,7 @@
 			<td>Koordinator Mahasiswa Pendamping</td>
 			<td>* Mety Elizabeth Agustin (Fakultas Teologi)<br/>
 			* Angeliana P. W Sikowai (Fakultas Bisnis)<br/>
-			* Stenllie Jonathan (Fakultas Bioteknologi)<br/>
+			* Felya Evelina (Fakultas Bioteknologi)<br/>
 			* Carmen (Fakultas Arsitektur dan Desain)<br/>
 			* Jesslyn Septhia (Fakultas Teknologi Informasi)<br/>
 			* Ni Komang Ayulia Sari (Fakultas Kedokteran)<br/>
