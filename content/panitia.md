@@ -160,5 +160,17 @@
 			* Malemmita Peranginangin (01170097) <br/>
 			* Grace Victoria (011700100) <br/>
 		</tr>
+		<tr>
+			<td>Mahasiswa Pendamping Fakultas Bisnis</td>
+			<td>* Angeliana PW Sikowai (12180332)<br/>
+			* Wahyu Setiawan (11180406)<br/>
+			* Manasena Susana Gn Giban (12180394)<br/>
+			* Galih Ernawati Wibowo (11180382)<br/>
+			* Mira Jinetha Br Perangin Angin (11180543)<br/>
+			* Abrahamma Rahmanno P (12180296)<br/>
+			* Winda Eprilia Silalahi (12170187)<br/>
+			* Tyas Lestari (12180337)<br/>
+			* Nadya Agatha Sipayung</td>
+		</tr>
 	</tbody>
 </table>
