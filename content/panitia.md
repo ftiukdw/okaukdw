@@ -170,7 +170,7 @@
 			* Abrahamma Rahmanno P (12180296)<br/>
 			* Winda Eprilia Silalahi (12170187)<br/>
 			* Tyas Lestari (12180337)<br/>
-			* Nadya Agatha Sipayung</td>
+			* Nadya Agatha Sipayung (11180555)</td>
 		</tr>
 	</tbody>
 </table>
