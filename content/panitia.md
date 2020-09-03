@@ -162,8 +162,7 @@
 		</tr>
 		<tr>
 			<td>Mahasiswa Pendamping Fakultas Bisnis</td>
-			<td>* Angeliana PW Sikowai (12180332)<br/>
-			* Wahyu Setiawan (11180406)<br/>
+			<td>* Wahyu Setiawan (11180406)<br/>
 			* Manasena Susana Gn Giban (12180394)<br/>
 			* Galih Ernawati Wibowo (11180382)<br/>
 			* Mira Jinetha Br Perangin Angin (11180543)<br/>
