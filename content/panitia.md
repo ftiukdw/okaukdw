@@ -170,7 +170,13 @@
 			* Abrahamma Rahmanno P (12180296)<br/>
 			* Winda Eprilia Silalahi (12170187)<br/>
 			* Tyas Lestari (12180337)<br/>
-			* Nadya Agatha Sipayung (11180555)</td>
+			* Nadya Agatha Sipayung (11180555)<br/>
+			* Hilaria Fortuna (12180391)<br/>
+			* Brayen Samuel Paendong (11180442)<br/>
+			* Christikasih Lumbangaol (11180518)<br/>
+			* Juliyet Theresa Marselena (12190499<br/>
+			* Yohanes Adhitya Sujarwo (12190474)<br/>
+			* Candra Andika Diwantoro (12190493)</td>
 		</tr>
 	</tbody>
 </table>
