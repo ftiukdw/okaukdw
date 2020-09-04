@@ -8,16 +8,16 @@ Description: Halaman OKA UKDW 2020
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
-            <th style="width: 50%;">Hari/Tanggal</th>
-            <th style="width: 50%;">Agenda</th>
+            <th style="width: 40%;">Hari/Tanggal</th>
+            <th style="width: 60%;">Agenda</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan="2">Selasa, 8 September 2020</td>
-            <td>Ibadah Pembukaan<br/>
-                Pembukaan oleh Rektor UKDW<br/>
-                Penjelasan OKA</td>
+            <td>Ibadah Pembukaan (08:00 WIB)<br/>
+                Pembukaan oleh Rektor UKDW (09:00 WIB)<br/>
+                Penjelasan OKA (09:45 WIB)</td>
         </tr>
         <tr>
 	    <td>Aktivitas bersama MAPEN<br/>
@@ -28,8 +28,8 @@ Description: Halaman OKA UKDW 2020
 	</tr>
         <tr>
             <td rowspan="2">Rabu, 9 September 2020</td>
-            <td>Materi Kampus Merdeka<br/>
-		Materi Bela Negara</td>
+            <td>Materi Kampus Merdeka (08:00 WIB)<br/>
+		Materi Bela Negara (09:00 WIB)</td>
         </tr>
         <tr>
 	    <td>Aktivitas bersama MAPEN<br/>
@@ -38,7 +38,7 @@ Description: Halaman OKA UKDW 2020
 	</tr>
         <tr>
             <td rowspan="2">Kamis, 10 September 2020</td>
-            <td>OKA Fakultas/Prodi<br/>
+            <td>OKA Fakultas/Prodi (08:00 WIB - selesai)<br/>
 		* Perkenalan dosen wali<br/>
 		* Penjelasan kurikulum program studi</td>
         </tr>
@@ -48,7 +48,7 @@ Description: Halaman OKA UKDW 2020
 	</tr>
         <tr>
             <td rowspan="2">Jumat, 11 September 2020</td>
-            <td>Penutupan Tahap 1</td>
+            <td>Penutupan Tahap 1 (09:00 WIB)</td>
         </tr>
         <tr>
 	    <td>Aktivitas bersama MAPEN<br/>
