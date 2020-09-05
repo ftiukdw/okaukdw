@@ -11,7 +11,7 @@ UKDW memiliki 12 gedung yang memiliki maknanya masing-masing:
 * Chara : Sukacita
 * Didaktos : Pengajaran
 * Euodioa : Kesuksesan
-* Filia : kasih
+* Filia : Kasih
 * Gnosis : Pengetahuan
 * Hagios : Kekudusan
 * Iama : Kesembuhan
