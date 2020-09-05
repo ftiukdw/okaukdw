@@ -10,12 +10,12 @@ UKDW memiliki 12 gedung yang memiliki maknanya masing-masing:
 * Biblos : Pustaka
 * Chara : Sukacita
 * Didaktos : Pengajaran
-* Euodioa : Kesuksesan
+* Euodia : Kesuksesan
 * Filia : Kasih
 * Gnosis : Pengetahuan
 * Hagios : Kekudusan
 * Iama : Kesembuhan
-* Koinonia : Persekutuan yang inti
+* Koinonia : Persekutuan
 * Makarios : Bahagia
 * Logos : Ilmu/Pengetahuan
 
