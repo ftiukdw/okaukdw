@@ -19,4 +19,4 @@ UKDW memiliki 12 gedung yang memiliki maknanya masing-masing:
 * Makarios : Bahagia
 * Logos : Ilmu/Pengetahuan
 
-![Image Title](%base_url%/assets/images/peta.jpg)
+![Peta UKDW](%base_url%/assets/images/peta.jpg)
