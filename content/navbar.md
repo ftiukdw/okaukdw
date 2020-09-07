@@ -6,4 +6,4 @@ title: Navigation bar
  - [Panitia](%base_url%/panitia)
  - [Tata Laksana](%base_url%/tatalaksana)
  - [Peta Gedung](%base_url%/peta)
- 
+ - [Panduan](%base_url%/assets/document/panduan-oka-2020.pdf)
