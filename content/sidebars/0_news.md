@@ -1,6 +1,5 @@
 ---
-title: Pelaksanaan OKA 2020
+title: Pelaksanaan OKA 2021
 ---
- * [Tahap 1](%base_url%?tahap1)
- * [Tahap 2](%base_url%?tahap2)
- * Tahap 3
+ * [Tahap 1](%base_url%/tahap1)
+ * [Tahap 2](%base_url%/tahap2)
