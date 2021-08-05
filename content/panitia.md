@@ -99,7 +99,11 @@
 		</tr>
 		<tr>
 			<td>Mahasiwa Pendamping Fakultas Kependidikan dan Humaniora</td>
-			<td></td>
+			<td>* Suprianus Lase (81200082)<br/>
+			* Gracela Gloria Melodia (81200102)<br/>
+			* Helena Maria Bella Sitompul (81200092)<br/>
+			* Brayen Manullang (81200098)<br/>
+			* Melisa Rizky Maharani (81190061)</td>
 		</tr>
 		<tr>
 			<td>Mahasiswa Pendamping Fakultas Arsitektur dan Desain</td>
