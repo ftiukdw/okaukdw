@@ -51,15 +51,15 @@
 		</tr>
 		<tr>
 			<td>Koordinator Mahasiswa Pendamping</td>
-			<td>* Roynerd Vhiranda Katanga Takandjandji (BEMU UKDW)<br/>
-			* Jesslyn Septhia (BPMU UKDW)<br/>
-			* Helen Jayanti (Fakultas Teologi)<br/>
-			* Kurnianto Surya Putra (Fakultas Bisnis)<br/>
-			* Arkhey Sidauruk (Fakultas Bioteknologi)<br/>
-			* Elvrano Mathias Stanislaus Letsoin (Fakultas Arsitektur dan Desain)<br/>
-			* Rico Alex Sandra (Fakultas Teknologi Informasi)<br/>
-			* Putu Nanda Pratama (Fakultas Kedokteran)<br/>
-			* Wayan Gian Nita Pertiwi (Fakultas Kependidikan dan Humaniora)</td>
+			<td>* Roynerd Vhiranda Katanga Takandjandji (BEMU UKDW - 31180236)<br/>
+			* Jesslyn Septhia (BPMU UKDW - 71180384)<br/>
+			* Helen Jayanti (Fakultas Teologi - 01180176)<br/>
+			* Kurnianto Surya Putra (Fakultas Bisnis - 11190685)<br/>
+			* Arkhey Sidauruk (Fakultas Bioteknologi - 31190291)<br/>
+			* Elvrano Mathias Stanislaus Letsoin (Fakultas Arsitektur dan Desain - 62200178)<br/>
+			* Rico Alex Sandra (Fakultas Teknologi Informasi - 72180198)<br/>
+			* Putu Nanda Pratama (Fakultas Kedokteran - 41190417)<br/>
+			* Wayan Gian Nita Pertiwi (Fakultas Kependidikan dan Humaniora - 81190060)</td>
 		</tr>
 		<tr>
 			<td>Mahasiswa Pendamping Badan Perwakilan Mahasiswa Universitas</td>
@@ -112,10 +112,10 @@
             * Letticia Viona Setia Dharma (62200174)<br/>
             * Rosi Febriyani (62200155)<br/>
             * Emikhen Hana Anjani (62200175)<br/>
-            * Bimata Gosanadi /61190467)<br/>
-            * Kezia Zefanya/61200563)<br/>
-            * Laurensia Cristina Aprila Norman(61190474)<br/>
-            * Agustina Tri Mulyani/61190434)<br/>
+            * Bimata Gosanadi (61190467)<br/>
+            * Kezia Zefanya (61200563)<br/>
+            * Laurensia Cristina Aprila Norman (61190474)<br/>
+            * Agustina Tri Mulyani (61190434)<br/>
             * Vidia Caroline S. Pekpekai (61180302)<br/>
             * Deborah Lambok Sihombing (61180304)<br/>
             * Cezia Jenifer Tambahani (61180306)<br/>
