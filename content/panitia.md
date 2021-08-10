@@ -131,7 +131,7 @@
             * Stefany Setiawan Santoso (41200459)<br/>
             * Zefanya Irishanti A.P (41200515)<br/>
             * Maria Agustina (41200438)<br/>
-            * Bella Oktavia (41200499)<br/>
+            * Bernadetha Muktiarini (41200498)<br/>
             * Caecilia Aristameta Saraswati (41200450)<br/>
             * Yacinta Levina Putri Rosari (41200483)<br/>
             * Selly Murti Nirwana (41200485)</td>
