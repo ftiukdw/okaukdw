@@ -7,4 +7,5 @@ title: Navigation bar
  - [Tata Laksana](%base_url%/tatalaksana)
  - [Peta Gedung](%base_url%/peta)
  - [Buku Panduan OKA](%base_url%/assets/document/buku-panduan-peserta-oka-2021.pdf)
+ - [Buku Spirit UKDW](%base_url%/assets/document/buku-spirit-dutawacana.pdf)
  - [Makna Logo OKA](%base_url%/makna)
