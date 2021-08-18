@@ -23,6 +23,9 @@ Setiap peserta OKA harus mengikuti setiap acara yang sudah dipersiapkan oleh pan
 <table style="width: 100%;">
     <tbody>
         <tr>
+            <td>Melakukan registrasi bagi mahasiswa baru untuk mendapatkan NIM dengan mengikuti alur sesuai dengan panduan <a href="assets/document/panduan-registrasi-maba.pdf">REGISTRASI</a></td>
+        </tr>
+        <tr>
             <td>Informasi NIM masing-masing dapat dilihat melalui <a href="https://pmb.ukdw.ac.id/admisi/">https://pmb.ukdw.ac.id/admisi/</a></td>
         </tr>
         <tr>
