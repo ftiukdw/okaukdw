@@ -28,8 +28,8 @@ Description: Halaman OKA UKDW 2021
 	</tr>
         <tr>
             <td rowspan="2">Selasa, 24 Agustus 2021</td>
-            <td>Materi Merdeka Belajar Kampus Merdeka (08:30 WIB)<br/>
-		    Materi Generasi Pemimpin Bela Negara (10:00 WIB)</td>
+            <td>Materi Generasi Pemimpin Bela Negara (08:30 WIB)<br/>
+		    Materi Merdeka Belajar Kampus Merdeka (10:00 WIB)</td>
         </tr>
         <tr>
 	    <td>Aktivitas bersama MAPEN<br/>
