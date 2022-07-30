@@ -2,16 +2,17 @@
 # Basic
 #
 site_title: Pico                    # The title of your website
-base_url: https://willysr.ddns.net/~willysr/pico/                         # Pico will try to guess its base URL, if this fails, override it here;
+base_url: ~                         # Pico will try to guess its base URL, if this fails, override it here;
                                     #     Example: https://example.com/pico/
 rewrite_url: ~                      # A boolean (true or false) indicating whether URL rewriting is forced
 debug: ~                            # Set this to true to enable Pico's debug mode
 timezone: ~                         # Your PHP installation might require you to manually specify a timezone
+locale: ~                           # Your PHP installation might require you to manually specify a locale to use
 
 ##
 # Theme
 #
-theme: ~                     # The name of your custom theme
+theme: default                      # The name of your custom theme
 themes_url: ~                       # Pico will try to guess the URL to the themes dir of your installation;
                                     #     If this fails, override it here. Example: https://example.com/pico/themes/
 theme_config:                       # Additional theme-specific config
