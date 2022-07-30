@@ -1,4 +1,4 @@
-## Susunan Kepanitiaan OKA 2021
+## Susunan Kepanitiaan OKA 2022
 
 <table style="width: 100%;">
 	<tbody>
@@ -11,180 +11,191 @@
 			<td>Joko Purwadi, S.Kom., M.Kom (Wakil Rektor III)</td>
 		</tr>
 		<tr>
-			<td>Ketua</td>
-			<td>Willy Sudiarto Raharjo, S.Kom. MCs</td>
-		</tr>
-		<tr>
-			<td>Sekretaris dan Kesekretariatan</td>
-			<td>Biro Kemahasiswaan, Alumni dan Pengembangan Karir<br/>
-			* Winta Adhitia Guspara, S.T., M.Sn<br/>
-			* Hangudi Widya Hutama, S.Kom<br/>
-			* Wismatri Scorpika Widyaningrum, Amd<br/>
-			* Alledha Kristha, Amd<br/>
-			* Dinda Ayu Oktaviana, Amd<br/>
-			* Handono Kristianto</td>
-		</tr>
-		<tr>
-			<td>Bendahara</td>
-			<td>Tika Kristiana. S.I.Kom</td>
-		</tr>
-		<tr>
-			<td>Acara &amp; Materi</td>
+			<td>Steering Committee</td>
 			<td>* Dr. Wahyu Nugroho, M.A (WD III Fakultas Teologi)<br/>
 			* Lucia Nurbani Kartika, S.Pd., Dipl. Secr, M.M (WD III Fakultas Bisnis)<br/>
 			* Ferdy Sabono, S.T, M.Sc (WD III Fakultas Arsitektur dan Desain<br/>
 			* Willy Sudiarto Raharjo, S.Kom., M.Sc (WD III Fakultas Teknologi Informasi)<br/>
-			* Drs. Djoko Rahardjo, M.Kes (WD III Fakultas Bioteknologi)<br/>
+			* Dra. Haryati B. Sutanto, M.Sc (WD III Fakultas Bioteknologi)<br/>
 			* dr. Daniel Chriswinanto Adityo Nugroho, M.P.H (WD III Fakultas Kedokteran)<br/>
-			* Anesti Budi Ermerawati, M.Hum (WD III Fakultas Kependidikan dan Humaniora)</td>
+			* Anesti Budi Ermerawati, M.Hum (WD III Fakultas Kependidikan dan Humaniora)<br/>
+			* Adimas Kristiadi, S.T., M.Sc. (Kepala Biro Kemahasiswaan, Alumni, dan Pengembangan Karir)<br/>
+			* Theowoda Devictor Chaezaldeliph Boboy (Ketua Badan Eksekutif Mahasiswa Universitas)<br/>
+			* Natasya Vicky Vania Sutono (Wakil Ketua Badan Eksekutif Mahasiswa Universitas)</td>
 		</tr>
 		<tr>
-			<td>Anggota Panitia &amp; Pemateri</td>
-			<td>* Drs. Wimmie Handiwidjojo, M.I.T (Kepala Biro Administrasi Akademik)<br/>
-			* Lussy Ernawati, S.Kom, M.Acc (Kepala Biro Administrasi dan Keuangan)<br/>
-			* Winta Adhitia Guspara, S.T, M.Sn (Kepala Biro Kemahasiswaan, Alumni &amp; Pengembangan Karir)<br/>
-			* Dr. Phil., Lucia Dwi Krisnawati, S.S, M.A (Kepala Biro  Kerjasama dan Relasi Publik)<br/>
-			* Dr. Fransisca Endang Lestariningsih, M.Hum (Kepala LPAIP)<br/>
-			* Pdt. Nani Minarni, S.Si, M.Hum (Kepala Pusat Kerohanian Kampus)<br/>
-			* Aloysius Airlangga Bajuadji, S.Kom., M.Eng (Kepala Pusat Pelayanan Informasi &amp; Intranet Kampus)<br/>
-			* Veronica Tiara, S.Kom (Kepala Unit Admisi dan Promosi)<br/>
+			<td>Pengurus Inti</td>
+			<td>Pendamping Ketua: Willy Sudiarto Raharjo, S.Kom., M.Cs<br>
+			Ketua: Laurensia Cristina Aprila Norman (61190474)<br/>
+			Wakil Ketua: Dany Daniel Silalahi (11190773)<br/><br/>
+			Pendamping Sekretaris: Tika Kristiana, S.Kom.<br>
+			Ketua: Nisya Khadijah (01200260)<br/>
+			Wakil Ketua: Selvi Ayu Melianda Sarumaha (72200429)<br/><br/>
+			Pendamping Bendahara: Tika Kristiana, S.Kom.<br>
+			Ketua: Agustina Tri Mulyani (61190434)<br/>
+			Wakil Ketua: Keren Dwi Fani Wulan Sari (71200559)
+			</td>
 		</tr>
 		<tr>
-			<td>Koordinator Mahasiswa Pendamping</td>
-			<td>* Roynerd Vhiranda Katanga Takandjandji (BEMU UKDW - 31180236)<br/>
-			* Jesslyn Septhia (BPMU UKDW - 71180384)<br/>
-			* Helen Jayanti (Fakultas Teologi - 01180176)<br/>
-			* Kurnianto Surya Putra (Fakultas Bisnis - 11190685)<br/>
-			* Arkhey Sidauruk (Fakultas Bioteknologi - 31190291)<br/>
-			* Elvrano Mathias Stanislaus Letsoin (Fakultas Arsitektur dan Desain - 62200178)<br/>
-			* Rico Alex Sandra (Fakultas Teknologi Informasi - 72180198)<br/>
-			* Putu Nanda Pratama (Fakultas Kedokteran - 41190417)<br/>
-			* Wayan Gian Nita Pertiwi (Fakultas Kependidikan dan Humaniora - 81190060)</td>
+			<td>Divisi Acara</td>
+			<td>Pendamping Divisi Acara: Anesti Budi Ermerawati, M.Hum<br>
+			<strong>Wulan Lestary Dumunu (11190745) *</strong><br/>
+			Patrick Pebrian Pratama (11190792)<br/>
+			Natasya Manulang (11200966)<br/>
+			Belinda Arpia Marsanda (11211070)<br/>
+			Marschelia Hardika Puteri (11211179)<br/>
+			Ivon Cicilia Naitboho (31190294)<br/>
+			Sheila Vanessa Hartono (62210193)<br/>
+			Agnes Monica Pramawati (72200363)<br/>
+			Delvy Tulak Sandatoding (72200401)<br/>
+			Wayan Gian Nita Pertiwi (81190060)
+			</td>
 		</tr>
 		<tr>
-			<td>Mahasiswa Pendamping Badan Perwakilan Mahasiswa Universitas</td>
-			<td>* Elza Miyori Toding Rante (72180214)<br/>
-			* Vania Angelina (62180105)<br/>
-			* Andre Susilo (72180187)</td>
+			<td>Divisi Dekorasi</td>
+			<td>Pendamping Divisi Dekorasi: Adimas Kristiadi, S.T., M.Sc.<br>
+			<strong>Wijaya Linuwih Pudjibudojo (61190432) *</strong><br/>
+			Agnes Margaretha Cahya Putri (61190406)<br/>
+			Naftali Rafael Lucas (61190413)<br/>
+			Nabila Noer Setyaningrum (61190490)<br/>
+			Dennis Tito Launardy (61200556)<br/>
+			Chassandra Angganita Ritho (61200578)<br/>
+			Elke Santa Amesa (61190137)<br/>
+			Daniel Agung Kristiawan (62190152)<br/>
+			Hana Mulyana (62200164)<br/>
+			Ester Kurnianingsih(62210211)
+			</td>
 		</tr>
 		<tr>
-			<td>Mahasiswa Pendamping Fakultas Teknologi Informasi</td>
-			<td>* Frans Valentino (71190412)<br/>
-            * Michelle Novanty Lestuny (71190415)<br/>
-            * Beatrix Stefany (71200667)<br/>
-            * Anabela Rosanti Dewi Pramono (71200547)<br/>
-            * Endricho Abednego (71200542)<br/>
-            * Monica Gracethea (72200437)<br/>
-            * Vella Nathasya Rihi Huky (72200436)<br/>
-            * Mikhael Hedy Prasetya Guritno (72200428)<br/>
-            * Selvi Ayu Melianda Sarumaha (72200429)<br/>
-            * Andreas Kurniawan Budi Santosa (72200406)<br/>
-            * Erick Pratama Laiyo (72200423)<br/>
-            * Chara Kezia (72200377)<br/>
-            * Egi Granaldi Ginting (71200634)<br/>
-            * Fandy Hertanto (71200532)<br/>
-            * Belinda Mutiara L S (72200422)</td>
+			<td>Divisi Perlengkapan</td>
+			<td>Pendamping Divisi Perlengkapan: Ngadiran.<br>
+			<strong>Gaudensius Bayu Muga (61180307) *</strong><br/>
+			Samuel Nicholas Suyoso (62210195)<br/>
+			Mikael Erlangga Nafiri N. (62210199)<br/>
+			Erlinda Sri Ayuningsih (31190317)<br/>
+			Fernando Jose Alessandro N. (11190795)<br/>
+			Muhammad Taufik Pratama (11190808)<br/>
+			I Kadek Yudiantoro (72190296)<br/>
+			Reynal Bryan Pademme (72190316)<br/>
+			Giovani Harrius (72200366)
+			</td>
 		</tr>
 		<tr>
-			<td>Mahasiswa Pendamping Fakultas Bioteknologi</td>
-			<td>* Bryan Hutama Handoyo (31200350)<br/>
-            * Bernike Rose Sipayung (31190333)<br/>
-            * Cindy Oktavi Cicilia (31190336)<br/>
-            * Devina Puspita Sari (31190271)<br/>
-            * Fayola Justina (31190302)<br/>
-            * Miranda Gardha Viorentha (31200373)<br/>
-            * Nita Sonia Sipayung (31190315)<br/>
-            * Tamariska Blessy (31190310)<br/>
-            * Vebryana Elisabeth Purba (31190332)</td>
+			<td>Divisi Desain &amp; Dokumentasi</td>
+			<td>Pendamping Divisi Desain &amp; Dokumentasi: Abet Agung Narisworo, S.Kom., M.Kom.<br>
+			<strong>Marcelus Wahyuda (61190441) *</strong><br/>
+			Bismar Ronggi (61170182)<br/>
+			Yendrasony Malliwang (61170252)<br/>
+			Jehian Benget Situmorang (61190430)<br/>
+			Jessica Caroline Graciella (61190480)<br/>
+			Tiara Sambata Umbas (61200582)<br/>
+			Marlon Alessandro (62180089)<br/>
+			Letticia Viona Setia Dharma (62200174)<br/>
+			Yohanes Vito Rizki Darujati (71190429)<br/>
+			Kevin Alvaro Adianto (71200557)<br/>
+			Andreas Susilo Dinata (72180187)<br/>
+			Evan Leonardo Mintoro (72190286)<br/>
+			Joey Firgiel Sapakoly (72190312)<br/>
+			Wahyu Vivacious Nurallah (72200440)
+			</td>
 		</tr>
 		<tr>
-			<td>Mahasiwa Pendamping Fakultas Kependidikan dan Humaniora</td>
-			<td>* Suprianus Lase (81200082)<br/>
-			* Gracela Gloria Melodia (81200102)<br/>
-			* Helena Maria Bella Sitompul (81200092)<br/>
-			* Brayen Manullang (81200098)<br/>
-			* Melisa Rizky Maharani (81190061)</td>
+			<td>Divisi Kesekretariatan</td>
+			<td><strong>Ivana Florencia Tanggara (71200545) *</strong><br/>
+			Windy Wahyuni Lamasi (71190430)<br/>
+			Kezia Trifena Kurniani (71210715)<br/>
+			Ling Ling Gloria Lu (11200924)<br/>
+			Christine Latekay (11200930)<br/>
+			Divanda Gardha Violeta (12200544)<br/>
+			Griffita Liunsanda (61190485)<br/>
+			Helena Maria Bella Sitompul (81200092)
+			</td>
 		</tr>
 		<tr>
-			<td>Mahasiswa Pendamping Fakultas Arsitektur dan Desain</td>
-			<td>* Natasya Vicky Vania Sutono (62190115)<br/>
-            * Koo, Clarissa Putri (62200169)<br/>
-            * Letticia Viona Setia Dharma (62200174)<br/>
-            * Rosi Febriyani (62200155)<br/>
-            * Emikhen Hana Anjani (62200175)<br/>
-            * Bimata Gosanadi (61190467)<br/>
-            * Kezia Zefanya (61200563)<br/>
-            * Laurensia Cristina Aprila Norman (61190474)<br/>
-            * Agustina Tri Mulyani (61190434)<br/>
-            * Vidia Caroline S. Pekpekai (61180302)<br/>
-            * Deborah Lambok Sihombing (61180304)<br/>
-            * Cezia Jenifer Tambahani (61180306)<br/>
-            * Yunita Ariantji Boelan (61180310)<br/>
-            * Lintang Lokeswara P (61180294)<br/>
-            * Inggi Rambu Ngana (61200614)</td>
+			<td>Divisi Kesehatan</td>
+			<td>Pendamping Divisi Kesehatan: dr. Katherina Adisaputro<br>
+			<strong>Agnes Agatha Purnomo (41200490) *</strong><br/>
+			Vinaldee Cikita Mitakda (41200449)<br/>
+			Stefany Setiawan Santoso (41200459)<br/>
+			Yosef Aria Pradana (41200467)<br/>
+			Saskia Gladys Sutanto (41200478)<br/>
+			Jovan Prasetya Aji (41200491)<br/>
+			Bernadetha Muktiarini (41200498)<br/>
+			Gabriella Danesta Vinkanova A (41210536)<br/>
+			Vanessa Dara Lawa Putri Manda (41210618)<br/>
+			Vicki Riski Yuspa (62190144)<br/>
+			Melisa Wijaya (71210714)
+			</td>
 		</tr>
 		<tr>
-			<td>Mahasiswa Pendamping Fakultas Kedokteran</td>
-			<td>* Abigail Majesty (41200446)<br/>
-            * Christy Ditya Alicia (41200463)<br/>
-            * Meliana (41200431)<br/>
-            * Stefany Setiawan Santoso (41200459)<br/>
-            * Zefanya Irishanti A.P (41200515)<br/>
-            * Maria Agustina (41200438)<br/>
-            * Bernadetha Muktiarini (41200498)<br/>
-            * Caecilia Aristameta Saraswati (41200450)<br/>
-            * Yacinta Levina Putri Rosari (41200483)<br/>
-            * Selly Murti Nirwana (41200485)</td>
+			<td>Divisi Konsumsi</td>
+			<td><strong>Anggel Metha Octavia Rissonia (11200846) *</strong><br/>
+			Brilian Pradito (11190781)<br/>
+			Nareswari Nisita (11200841)<br/>
+			Jeremias Kevin Turang (11200970)<br/>
+			Gracea Natalia Sidi Tambi (1120990)<br/>
+			Berlian Anindya Margaretha (11211079)<br/>
+			Clariza Ardya Pramesti Trissenda (62200172)<br/>
+			Skolastika Amadea Tan (62210226)<br/>
+			Lucia Vista Hayuningtyas (71190519)<br/>
+			Alya Putri Julia Bate (71210802)
+			</td>
 		</tr>
 		<tr>
-			<td>Mahasiswa Pendamping Fakultas Teologi</td>
-			<td>* Euaggeliony Fraxiparine Hasian Na Arga (01190224)<br/>
-			* Robby Rivaldo Nababan (01190206)<br/>
-			* Hanz Elkasava Girsang (01190228)<br/>
-			* Felliex Yulio Murlyantara (01190194)<br/>
-			* Johannes Suryo S.P (01190187)<br/>
-			* Millano Tulus Christian Sitompul (01190193)<br/>
-			* Jeremy Lodewyk Frans Pangemanan (01190218)<br/>
-			* Gerrald Mutiha Binsar Michael (01190204)<br/>
-			* Fenta Krisnanda Putra (01200244)<br/>
-            * Yudha Adi Putra (01190208)<br/>
-            * Gloria Aprilia Salampessy (01200254)<br/>
-            * Marthinus Cavyn J. Dandirwalu (01200235)<br/>
-            * Kevin Jonathan Darmawan (01180139)<br/>
-            * Nisya Khadijah (01200260)<br/>
-            * Micheline Isa Banna (01200243)<br/>
-            * Kidung Widya Satryaji (01200264)<br/>
-            * Yohana Jessica (01200289)<br/>
-            * Korinta Amelia Budiarti Kurniasiwi (01200250)<br/>
-            * I Gede Ricco Mahayana (01200237)<br/>
-            * Revangga Devrat Prasetya Soumeru (01200261)<br/>
-            * Bintang Holy Junior (01200271)<br/>
-            * Victor A. Wibowo (01190212)<br/>
-            * Charella Anggun Ermawati (01200249)<br/>
-            * Kevin Jeremy Prabowo (01200288)
+			<td>Divisi Fasilitator</td>
+			<td><strong>Agnestasya Niken Agistha (11190722) *</strong><br/>
+			Imeldha Ghabriela (11190638)<br/>
+			Ika Ayu Febriana (11190710)<br/>
+			Kevin Rupang Paembonan (11190746)<br/>
+			Prince Eka Saputri (11190750)<br/>
+			Atanasia Febrianti Girsang (11200859)<br/>
+			George Patrick Bombo (11200946)<br/>
+			Deata Dwi Purnama (11200965)<br/>
+			Noryance Bulu (12190438)<br/>
+			Putri Rahayu Loviantius (12190472)<br/>
+			Laura Saswita Malau (12190504)<br/>
+			Miranda Gardha Viorenta (31200373)<br/>
+			I Komang Prismana Mangestu (41210539)<br/>
+			I Made Azriel Jonathan Putra Dharma (41210560)<br/>
+			Agatha Putri Ayu Ratnasari (61190402)<br/>
+			Muhammad Yusuf Lilitoly (61190414)<br/>
+			Meredith Suhutama Manurung (61190416)<br/>
+			Belinda Kristika Rambu Teba (61190421)<br/>
+			Charlyta Chrisanta Fahik (61190427)<br/>
+			Gloriam Belinda Kuriana Duha (61190442)<br/>
+			Christian Elang Sakti Putra Pakpahan (62210228)<br/>
+			Michelle Lestuny (71190415)<br/>
+			Carlos The Goodman Silalahi Sidebang (71190474)<br/>
+			Endricho Abednego (71200542)<br/>
+			Narendra Poetra Wisnoewardhana (71200555)<br/>
+			Mikael Rizki Pandu Ekanto (71200560)<br/>
+			Imanuel Vicky Sanjaya (71200563)<br/>
+			Azriel Setyo Nugroho Hasudungan (71200576)<br/>
+			Josephine Angie Santoso (71210708)<br/>
+			Nathan Ariel Phedra (71210776)<br/>
+			Jeremy Wasistha (72190342)<br/>
+			Gracia Sonia Melinda (72200370)<br/>
+			Stefani Fransica (72200373)<br/>
+			Jessica Ivana (72200376)<br/>
+			Chara Kezia (72200377)<br/>
+			Natasha Angelica (72200378)<br/>
+			Tesalonika Theresia Dwijayanti S. (72200380)<br/>
+			Fionika Arinda Yuliana (72200381)<br/>
+			Maria Valencien (72200402)<br/>
+			Erick Pratama Laiyo (72200423)<br/>
+			Vella Nathasya (72200436)<br/>
+			Christian Antonio Sandhya C. (72200441)<br/>
+			Tiofani Yasimawarni Saragih (81900070)
+			</td>
 		</tr>
 		<tr>
-			<td>Mahasiswa Pendamping Fakultas Bisnis</td>
-			<td>* Yohanes Adhitya Sujarwo (12190474)<br/>
-            * Maria Alva Amadea (12200536)<br/>
-            * Yoan Fenie Christina Khouw (12200545)<br/>
-            * Melanton Nicolas Wicaksono (12200589)<br/>
-            * Angela Dewi Anggun Cahyani (11190760)<br/>
-            * Theowoda Devictor Chaezaldeliph Boboy (11190677)<br/>
-            * Atanasia Febrianti Girsang (11200859)<br/>
-            * Anggita Prisilia Tjoa (11200854)<br/>
-            * Theodora Fildania Dhiru (12190425)<br/>
-            * Sherlley Christy Eirene Acai (12190466)<br/>
-            * Indriani Payungallo (11190714)<br/>
-            * Noryance Bulu (12190438)<br/>
-            * Agnestasya Niken Agistha (11190722)<br/>
-            * Mahanara Klauwrans (11190705)<br/>
-            * Tegar Grahatama Rastanti (11190625)<br/>
-            * Imeldha Ghabriela (11190638)<br/>
-            * Ika Ayu Febriana (11190710)<br/>
-            * Lesly Claudia Silalahi (11190690)<br/>
-            * Elsie Yustiana Novitasari (12200576)<br/>
-            * George Patrick Bombo (11200946)</td>
+			<td>Divisi Pengawasan</td>
+			<td>Pendamping Divisi Pengawasan: Gregorius Eko Susanto, S.E.<br>
+			<strong>Melanya Felner Goncalves (11190810) *</strong><br/>
+			Safira Oktavia Krisanti Br. Sinaga (11190801)<br/>
+			Christian Farel Pamungkas (71190422)<br/>
+			Alex Septiamand Gulo (72190349)
+			</td>
 		</tr>
 	</tbody>
 </table>

@@ -1,24 +1,24 @@
 ---
-Title: OKA 2021
-Description: Halaman OKA UKDW 2021
+Title: OKA 2022
+Description: Halaman OKA UKDW 2022
 ---
 
-## Selamat Datang di Halaman OKA 2021
+## Selamat Datang di Halaman OKA 2022
 
 OKA (Orientasi Kehidupan Akademika) merupakan kegiatan pertama yang akan diikuti oleh semua mahasiswa baru dalam rangka mempersiapkan diri untuk memasuki lingkungan yang baru.
 Kegiatan ini bertujuan untuk memberikan bekal informasi tentang UKDW secara lengkap, termasuk informasi dari program studi masing-masing.
 
-Untuk tahun 2021, pelaksanaan OKA akan dilakukan secara daring (online) mengingat adanya situasi pandemi COVID-19.
+Untuk tahun 2022, pelaksanaan OKA akan dilakukan secara blended (kombinasi online dan offline) dengan tetap mengikuti protokol kesehatan yang telah ditentukan oleh pemerintah dan tim satgas COVID UKDW mengingat adanya situasi pandemi COVID-19.
 
-## Jadwal Pelaksanaan OKA 2021
+## Jadwal Pelaksanaan OKA 2022
 
-OKA 2021 akan dilaksanakan dalam  2 tahap:
-* Tahap 1: 23-27 Agustus 2021
-* Tahap 2: September - Oktober 2021
+OKA 2022 akan dilaksanakan pada tanggal 23-27 Agustus 2022.
 
 Setiap peserta OKA harus mengikuti setiap acara yang sudah dipersiapkan oleh panitia.
 
-## Persiapan Mengikuti OKA 2021
+Detail pelaksanaan dapat dilihat pada menu Agenda.
+
+## Persiapan Mengikuti OKA 2022
 
 <table style="width: 100%;">
     <tbody>

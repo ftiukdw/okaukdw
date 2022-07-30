@@ -1,5 +1,4 @@
 ---
-title: Pelaksanaan OKA 2021
+title: Pelaksanaan OKA 2022
 ---
- * [Tahap 1](%base_url%/tahap1)
- * [Tahap 2](%base_url%/tahap2)
+ * [Agenda] (informasi menyusul)

@@ -1,9 +1,9 @@
 ---
-Title: OKA 2021
-Description: Halaman OKA UKDW 2021
+Title: OKA 2022
+Description: Halaman OKA UKDW 2022
 ---
 
-## Agenda OKA 2021 Tahap 1
+## Agenda OKA 2022 Tahap 1
 
 <table style="width: 100%; max-width: 40em;">
     <thead>
@@ -14,7 +14,7 @@ Description: Halaman OKA UKDW 2021
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2">Senin, 23 Agustus 2021</td>
+            <td rowspan="2">Senin, 23 Agustus 2022</td>
             <td>Ibadah Pembukaan (08:00 WIB)<br/>
                 Pembukaan oleh Rektor UKDW (09:00 WIB)<br/>
                 Penjelasan OKA (09:30 WIB)</td>
@@ -23,7 +23,7 @@ Description: Halaman OKA UKDW 2021
 	    <td>Aktivitas bersama MAPEN<br/>
 		* Aktivasi email <a href="https://ssat.ukdw.ac.id/">@students, SSAT, dan E-Class</a><br/>
 		* Registrasi akun <a href="https://lms.ukdw.ac.id/">e-Learning (Moodle)</a><br/>
-		* Bergabung dengan kelas OKA 2021<br/>
+		* Bergabung dengan kelas OKA 2022<br/>
 		* Aktivasi <a href="https://www.ukdw.ac.id/office365/">Office 365</a></td>
 	</tr>
         <tr>
@@ -59,8 +59,8 @@ Description: Halaman OKA UKDW 2021
     <tr>
             <td rowspan="2">Jumat, 27 Agustus 2021</td>
             <td>Generasi Muda Profesional Di Era Industri 4.0 (08:00 - 09:00)<br/>
-            Perform OKA 2021 (09:00 - 10:00 WIB)<br/>
-            Laporan Panitia OKA 2021 + Penutupan OKA Tahap 1 (10:00 - selesai)</td>
+            Perform OKA 2022 (09:00 - 10:00 WIB)<br/>
+            Laporan Panitia OKA 2022 + Penutupan OKA Tahap 1 (10:00 - selesai)</td>
         </tr>
     </tbody>
 </table>
