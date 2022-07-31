@@ -104,6 +104,7 @@
 			<td><strong>Ivana Florencia Tanggara (71200545) *</strong><br/>
 			Windy Wahyuni Lamasi (71190430)<br/>
 			Kezia Trifena Kurniani (71210715)<br/>
+			Trifena Katrina (72200379)<br/>
 			Ling Ling Gloria Lu (11200924)<br/>
 			Christine Latekay (11200930)<br/>
 			Divanda Gardha Violeta (12200544)<br/>
@@ -145,6 +146,7 @@
 			<td>Divisi Fasilitator</td>
 			<td><strong>Agnestasya Niken Agistha (11190722) *</strong><br/>
 			Imeldha Ghabriela (11190638)<br/>
+			Lesly Claudia Silalahi (11190690)<br/>
 			Ika Ayu Febriana (11190710)<br/>
 			Kevin Rupang Paembonan (11190746)<br/>
 			Prince Eka Saputri (11190750)<br/>
@@ -158,7 +160,7 @@
 			I Komang Prismana Mangestu (41210539)<br/>
 			I Made Azriel Jonathan Putra Dharma (41210560)<br/>
 			Agatha Putri Ayu Ratnasari (61190402)<br/>
-			Muhammad Yusuf Lilitoly (61190414)<br/>
+			Muhammad Yusuf Lititoly (61190414)<br/>
 			Meredith Suhutama Manurung (61190416)<br/>
 			Belinda Kristika Rambu Teba (61190421)<br/>
 			Charlyta Chrisanta Fahik (61190427)<br/>
@@ -192,8 +194,8 @@
 			<td>Divisi Pengawasan</td>
 			<td>Pendamping Divisi Pengawasan: Gregorius Eko Susanto, S.E.<br>
 			<strong>Melanya Felner Goncalves (11190810) *</strong><br/>
-			Safira Oktavia Krisanti Br. Sinaga (11190801)<br/>
-			Christian Farel Pamungkas (71190422)<br/>
+			Safira Oktavia Kristanti Br. Sinaga (11190801)<br/>
+			Christan Farel Pamungkas (71190422)<br/>
 			Alex Septiamand Gulo (72190349)
 			</td>
 		</tr>
