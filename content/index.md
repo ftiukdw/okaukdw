@@ -12,7 +12,7 @@ Untuk tahun 2022, pelaksanaan OKA akan dilakukan secara blended (kombinasi onlin
 
 ## Jadwal Pelaksanaan OKA 2022
 
-OKA 2022 akan dilaksanakan pada tanggal 23-27 Agustus 2022.
+OKA 2022 akan dilaksanakan pada tanggal 22-27 Agustus 2022.
 
 Setiap peserta OKA harus mengikuti setiap acara yang sudah dipersiapkan oleh panitia.
 
