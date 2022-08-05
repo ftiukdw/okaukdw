@@ -1,4 +1,4 @@
 ---
 title: Pelaksanaan OKA 2022
 ---
- * [Agenda] (informasi menyusul)
+ * [Agenda](%base_url%/agenda)
