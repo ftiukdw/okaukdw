@@ -188,7 +188,7 @@
                 "ext-mbstring": "*",
                 "php": ">=7.0.8",
                 "symfony/yaml": "^3.4",
-                "twig/twig": "^2.12"
+                "twig/twig": "2.15.3"
             },
             "suggest": {
                 "picocms/composer-installer": "This Composer plugin is responsible for installing Pico plugins and themes using the Composer package manager.",
