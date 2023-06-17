@@ -27,14 +27,14 @@
 			<td>Pengurus Inti</td>
 			<td>Pendamping Ketua: Willy Sudiarto Raharjo, S.Kom., M.Cs<br>
 			Ketua: Sheila Vanessa Hartono (62210193)<br/>
-			Wakil Ketua 1: <br/><br/>
-			Wakil Ketua 2: <br/><br/>
+			Wakil Ketua 1: Johnatan Pernando Saragih (11201018)<br/>
+			Wakil Ketua 2: Iglelasia Perangin Angin (71210798)<br/><br/>
 			Pendamping Sekretaris: Tika Kristiana, S.Kom.<br>
-			Sekretaris 1: <br/>
-			Sekretaris 2: <br/><br/>
+			Sekretaris 1: Marschelia Puteri (11211179)<br/>
+			Sekretaris 2: Leo Saputra (72210460)<br/><br/>
 			Pendamping Bendahara: Tika Kristiana, S.Kom.<br>
-			Bendahara 1: <br/>
-			Bendahara 2:
+			Bendahara 1: Juen Tri Putra Paiki (71210808)<br/>
+			Bendahara 2:Sa Ing Meilan Selfanay (12210646)
 			</td>
 		</tr>
 		<tr>
