@@ -20,13 +20,13 @@
 			* dr. Katherina Adisaputro, MPH (WD III Fakultas Kedokteran)<br/>
 			* Anesti Budi Ermerawati, M.Hum (WD III Fakultas Kependidikan dan Humaniora)<br/>
 			* Adimas Kristiadi, S.T., M.Sc. (Kepala Biro Kemahasiswaan, Alumni, dan Pengembangan Karir)<br/>
-			* (Ketua Badan Eksekutif Mahasiswa Universitas)<br/>
-			* (Wakil Ketua Badan Eksekutif Mahasiswa Universitas)</td>
+			* Rachel Yosita (Sekretaris I Badan Eksekutif Mahasiswa Universitas)<br/>
+			* Bernadeta Nevillia (Bendahara II Badan Eksekutif Mahasiswa Universitas)</td>
 		</tr>
 		<tr>
 			<td>Pengurus Inti</td>
 			<td>Pendamping Ketua: Willy Sudiarto Raharjo, S.Kom., M.Cs<br>
-			Ketua: Sheila Vanessa Hartono<br/>
+			Ketua: Sheila Vanessa Hartono (62210193)<br/>
 			Wakil Ketua 1: <br/><br/>
 			Wakil Ketua 2: <br/><br/>
 			Pendamping Sekretaris: Tika Kristiana, S.Kom.<br>
