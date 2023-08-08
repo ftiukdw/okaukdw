@@ -41,7 +41,6 @@
 			<td>Divisi Acara</td>
 			<td>Pendamping Divisi Acara: Anesti Budi Ermerawati, M.Hum<br>
 			<strong>Chassandra Angganita Ritho (61200578) - Koordinator</strong><br/>
-			Fibriani Putri Ayu Lembo (12210629)<br/>
 			Kristina Devi Manullang (11200989)<br/>
 			Eunike Chara Shalomita (11221281)<br/>
 			Kezia Laurent Yauri (61200610)<br/>
