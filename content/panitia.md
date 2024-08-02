@@ -8,25 +8,25 @@
 		</tr>
 		<tr>
 			<td>Penanggung Jawab</td>
-			<td>Dr. Parmonangan Manurung, S.T. M.T., IAI. (Wakil Rektor III)</td>
+			<td>Dr. Parmonangan Manurung, S.T. M.T., IAI. (Wakil Rektor Bidang Kemahasiswaan, Alumni, Informasi dan Inovasi)</td>
 		</tr>
 		<tr>
 			<td>Steering Committee</td>
-			<td>* Dr. Wahyu Nugroho, M.A (WD III Fakultas Teologi)<br/>
-			* Lucia Nurbani Kartika, S.Pd., Dipl. Secr, M.M (WD III Fakultas Bisnis)<br/>
-			* Dr. Imelda Irmawati Damanik, S.T., M.A. (WD III Fakultas Arsitektur dan Desain<br/>
-			* Willy Sudiarto Raharjo, S.Kom., M.Cs (WD III Fakultas Teknologi Informasi)<br/>
-			* Dra. Haryati B. Sutanto, M.Sc (WD III Fakultas Bioteknologi)<br/>
-			* dr. Katherina Adisaputro, MPH (WD III Fakultas Kedokteran)<br/>
-			* Anesti Budi Ermerawati, M.Hum (WD III Fakultas Kependidikan dan Humaniora)<br/>
-			* Adimas Kristiadi, S.T., M.Sc. (Kepala Biro Kemahasiswaan, Alumni, dan Pengembangan Karir)<br/>
-			* Rachel Yosita (Sekretaris I Badan Eksekutif Mahasiswa Universitas)<br/>
-			* Bernadeta Nevillia (Bendahara II Badan Eksekutif Mahasiswa Universitas)</td>
+			<td>* Pdt. Dr. Frans Setyadi Manurung, S.Si., M.Th. (WD III Fakultas Teologi)<br/>
+			* Lucia Nurbani Kartika, S.Pd., Dipl. Secr, M.M. (WD III Fakultas Bisnis)<br/>
+			* Adimas Kristiadi, S.T.,M.Sc. (WD III Fakultas Arsitektur dan Desain<br/>
+			* Matahari Bhakti Nendya, S.Kom.,M.T. (WD III Fakultas Teknologi Informasi)<br/>
+			* Dra. Haryati B. Sutanto, M.Sc. (WD III Fakultas Bioteknologi)<br/>
+			* dr. Pradita Sri Mitasari, M.Ms., Sp.KK. (WD III Fakultas Kedokteran)<br/>
+			* Anesti Budi Ermerawati, M.Hum. (WD III Fakultas Kependidikan dan Humaniora)<br/>
+			* Mujiono, S.E., M.Sc. (Kepala Biro Kemahasiswaan, Alumni, dan Pengembangan Karir)<br/>
+			* Iglelasia Perangin Angin (Ketua Badan Eksekutif Mahasiswa Universitas)<br/>
+			* Juen Tri Putra Paiki (Staff Bidang Keuangan Badan Perwakilan MahasiswaUniversitas)</td>
 		</tr>
 		<tr>
 			<td>Pengurus Inti</td>
 			<td>Pendamping Ketua: Matahari Bhakti Nendya, S.Kom.,M.T<br>
-			<strong>Ketua: SDonni Josua Sitompul 11211187</strong><br/>
+			<strong>Ketua: Donni Josua Sitompul 11211187</strong><br/>
 			Wakil Ketua 1: Belinda Arpia Marsanda 11211070<br/>
 			Wakil Ketua 2: Natasya Angelita Christine 12220674<br/><br/>
 			Pendamping Sekretaris: Teri Gloryana Mesepi, A.Md<br>
