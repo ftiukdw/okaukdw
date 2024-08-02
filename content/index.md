@@ -18,7 +18,7 @@ Setiap peserta OKA harus mengikuti setiap acara yang sudah dipersiapkan oleh pan
 
 Detail pelaksanaan dapat dilihat pada menu Agenda.
 
-## Persiapan Mengikuti OKA 2023
+## Persiapan Mengikuti OKA 2024
 
 <table style="width: 100%;">
     <tbody>
