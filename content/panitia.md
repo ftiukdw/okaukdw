@@ -1,4 +1,4 @@
-## Susunan Kepanitiaan OKA 2023
+## Susunan Kepanitiaan OKA 2024
 
 <table style="width: 100%;">
 	<tbody>
@@ -25,35 +25,38 @@
 		</tr>
 		<tr>
 			<td>Pengurus Inti</td>
-			<td>Pendamping Ketua: Willy Sudiarto Raharjo, S.Kom., M.Cs<br>
-			<strong>Ketua: Sheila Vanessa Hartono (62210193)</strong><br/>
-			Wakil Ketua 1: Johnatan Pernando Saragih (11201018)<br/>
-			Wakil Ketua 2: Iglelasia Perangin Angin (71210798)<br/><br/>
-			Pendamping Sekretaris: Tika Kristiana, S.Kom.<br>
-			Sekretaris 1: Marschelia Puteri (11211179)<br/>
-			Sekretaris 2: Leo Saputra (72210460)<br/><br/>
-			Pendamping Bendahara: Tika Kristiana, S.Kom.<br>
-			Bendahara 1: Juen Tri Putra Paiki (71210808)<br/>
-			Bendahara 2:Sa Ing Meilan Selfanay (12210646)
+			<td>Pendamping Ketua: Matahari Bhakti Nendya, S.Kom.,M.T<br>
+			<strong>Ketua: SDonni Josua Sitompul 11211187</strong><br/>
+			Wakil Ketua 1: Belinda Arpia Marsanda 11211070<br/>
+			Wakil Ketua 2: Natasya Angelita Christine 12220674<br/><br/>
+			Pendamping Sekretaris: Teri Gloryana Mesepi, A.Md<br>
+			Sekretaris 1: Fidela Derby Enjuariva 11221328<br/>
+			Sekretaris 2: Rachel Budiarti 11221328<br/><br/>
+			Pendamping Bendahara: Teri Gloryana Mesepi, A.Md<br>
+			Bendahara 1: Jenny Rumiris Marpaung 71220886<br/>
+			Bendahara 2: Clarissa Decoteri Poernomo 12220672
 			</td>
 		</tr>
 		<tr>
 			<td>Divisi Acara</td>
 			<td>Pendamping Divisi Acara: Anesti Budi Ermerawati, M.Hum<br>
-			<strong>Chassandra Angganita Ritho (61200578) - Koordinator</strong><br/>
-			Kristina Devi Manullang (11200989)<br/>
-			Eunike Chara Shalomita (11221281)<br/>
-			Kezia Laurent Yauri (61200610)<br/>
-			Christy Alfrini Limpong (61200526)<br/>
-			Felizia Yolanda Lim (62220253)<br/>
-			Anjelita Marsinta Uli Sagala (11200958)<br/>
-			Devina Elisse Putri (71220876)<br/>
-			Margaretha Nathalie Lewis (61210616)<br/>
-			Otniel Theon Ivan (61200576)<br/>
-			Eka Daffa Sadewa (61210695)<br/>
-			Theoharis Christoper Lokollo (01190192)<br/>
-			Jonathan Sovisa (72220535)<br/>
-			Cornelius Rezon Setiawan (71220906)
+			<strong>Enjel Elisa Koamesah 12220678 </strong><br/>
+			Felix Arellano Siadari 11231423<br/>
+			Dirk Franklin Delano Samber 12220692<br/>
+			Akwilina Reslisia Amanda Palimbongan 11231398<br/>
+			Ahmad Mawaidi Kasim 11231426<br/>
+			Keren Tiara Angelia 12230720<br/>
+			Michelle Aurelia Nathanael 62230273<br/>
+			Evan Kurnia Wijaya 72230642<br/>
+			Andrea Marie Baikole 71220954<br/>
+			Imeldya Mawartika 11231439<br/>
+			C Niken Hapsari 11231371<br/>
+			Adellia Jeanief Anindita 82230002<br/>
+			Mica Citra Anjeli 11231390<br/>
+			Delila Widya Ayu Oktaviana 1200234<br/>
+			Mutiara Petronella Rambu Bera Diaz 41230803<br/>
+			Julietta Jane 11231379<br/>
+			Esperanca Bonita Correia 41220674
 			</td>
 		</tr>
 		<tr>
