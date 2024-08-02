@@ -87,7 +87,7 @@ Description: Halaman OKA UKDW 2024
     </tbody>
 </table>
 
-<strong>23 dan 24 Agustus 2023</strong><br/>
+<strong>23 dan 24 Agustus 2024</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
@@ -170,7 +170,7 @@ Description: Halaman OKA UKDW 2024
     </tbody>
 </table>
 
-<strong>25 Agustus 2023<br/>
+<strong>25 Agustus 2024<br/>
 OKA Prodi</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
@@ -204,7 +204,7 @@ OKA Prodi</strong><br/>
     </tbody>
 </table>
 
-<strong>26 Agustus 2023<br/>
+<strong>26 Agustus 2024<br/>
 Penutupan OKA</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
