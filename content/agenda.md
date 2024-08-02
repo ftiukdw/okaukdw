@@ -1,10 +1,10 @@
 ---
-Title: OKA 2023
-Description: Halaman OKA UKDW 2023
+Title: OKA 2024
+Description: Halaman OKA UKDW 2024
 ---
 
-## Agenda OKA 2023*
-<strong>21 dan 22 Agustus 2023</strong><br/>
+## Agenda OKA 2024*
+<strong>19 dan 24 Agustus 2024</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
