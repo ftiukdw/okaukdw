@@ -62,97 +62,110 @@
 		<tr>
 			<td>Divisi Dekorasi</td>
 			<td>Pendamping Divisi Dekorasi: Adimas Kristiadi, S.T., M.Sc.<br/>
-			<strong>Naftali Rafael Lucas (61190413) - Koordinator</strong><br/>
-			Ester Kurnianingsih (62210211)<br/>
-			Atika Furwati Yolanda (11200932)<br/>
-			Santi Desanda A. (62210224)<br/>
-			Andrew Franklin Roberto H. (61220769)<br/>
-			Leonard Daniel Winarto (62200156)<br/>
-			Santo Frans Mare (61200593)<br/>
-			Imanuel Marcellino Jusuf M. (61190415)<br/>
-			Maryo Ruben Babys (61190501)<br/>
-			Erlinda Sri Ayuningsih (31190317)<br/>
-			Reynal Bryan Pademme (72190316)<br/>
-			Alexander Aldo S.N (71200621)<br/>
-			Dennis Tito Launardy (61200556)<br/>
-			Mely Catryna Ritonga (11201004)<br/>
-			Vicki Riski Yuspa (62190144)
+			<strong>Karel Marley Bala Bakior 71231015 - Koordinator</strong><br/>
+			Aka Hernanda Suntoro 81230173<br/>
+			Rhayhan Kienan Nataarindra 62230288<br/>
+			Yehuda Pratama Susena 11211073<br/>
+			Angellia Aline Cindy Permata 62220264<br/>
+			Angelina Jenita Wijaya 62220260<br/>
+			Fani Natasia 62220240<br/>
+			Rhenald Tanujaya 62220241<br/>
+			Maura Jovita 62220243<br/>
+			Kerin Biasna Br Tarigan 11221323<br/>
+			Agvines Risasummawaty 11231482<br/>
+			Hana Oktavia 61230817<br/>
+			Sarchy Juliet V B 61230807<br/>
+			Gregorius Delon A.N 62230282<br/>
+			Skolastika Amadea Tan 62210226
 			</td>
 		</tr>
 		<tr>
 			<td>Divisi Perlengkapan</td>
-			<td>Pendamping Divisi Perlengkapan: Ngadiran.<br/>
-			<strong>Mikael Erlangga Nafiri Nugraha (62210199) - Koordinator</strong><br/>
-			Muhamad Audy Zanuar Dianthoni (62210230)<br/>
-			Michael Fidef Natalino (71210727)<br/>
-			Irfan Qadhafi (61190470)<br/>
-			Wahyu Bagus Hartanto (11211113)<br/>
-			Timotius Edo Biantoro (62210219)<br/>
-			Junaidi (72190322)<br/>
-			Samuel Nicholas Suyoso (62210195)<br/>
-			Kevin Nehemia S (61200608)<br/>
-			Samuel (62210232)<br/>
+			<td>Pendamping Divisi Perlengkapan: Hafni Arlinawati<br/>
+			<strong>Timotius Edo Biantoro 62210219 - Koordinator</strong><br/>
+			Abel Sigit Setiawan 81230156<br/>
+			Hosea Yeashe Retsoneka 81230171<br/>
+			Fransesco Barus 11201028<br/>
+			Yoanes Des Castillo Evan Bernadine 62220244<br/>
+			Narendra Andaru Prabaswara 72230614<br/>
+			David Happy Widyanto 62220269<br/>
+			Priskila Agung 62210205<br/>
+			Dio Boni Aldinan Simanjuntak 11211078<br/>
+			Samuel 62210232<br/>
+			Galuh Setyawan Supatno 62220271<br/>
+			Muhammad Audy Zanuar Dianthoni 62210230<br/>
+			Tri Septiadi Tulak 11211071
 			</td>
 		</tr>
 		<tr>
 			<td>Divisi Desain &amp; Dokumentasi</td>
 			<td>
-			<strong>Marcelus Wahyuda (61190441) - Koordinator</strong><br/>
+			<strong>Gregorius Clemens Rollando Suwu M. 11200903 - Koordinator</strong><br/>
 			Chrismasnanto I. Sayrang (71210795)<br/>
-			Tiara Sambata (61200582)<br/>
-			Yusak Satria (71200625)<br/>
-			Jehian Benget Situmorang (61190430)<br/>
-			Yosia Agil Danartono (72190292)<br/>
-			Putri Pramesti Ferari (61200528)<br/>
-			Lukas Hary Purwanto (72220584)<br/>
-			Juan Yust Abel (61210694)<br/>
-			Agnes Valentina (81220141)<br/>
-			Adriel Marcel Geraldo (11200985)<br/>
-			Abet Kalingga Wijaya (71200543)<br/>
-			Kevin Alvaro Ardianto (71200557)<br/>
-			Misael Ewaldo W. (62200184)<br/>
-			Joey Firgiel Sapakoly (72190312)<br/>
-			Muhamad Yusuf Litiloly (61190414)<br/>
+			Velline Gisella Sutanto 11221224<br/>
+			Lukas Hary Purwanto 72220584<br/>
+			Rafael Noventino Parikesit 61200516<br/>
+			Garry Bastian Lake 71220947<br/>
+			Stanley Yorindra Anugeraha 72220526<br/>
+			Rosi Febriyani 62200155<br/>
+			Yudistira Nurul Azmi 62210227<br/>
+			Stefanus Daud Dwi Haressa 71220937<br/>
+			Dean Abiyoga Kanugraha 71220908<br/>
+			Maria Jacynthia Roberti Prasetya 71231031<br/>
+			Natalie Yolanda Putri 72210498<br/>
+			Jasmine Ruth Farsida Paranginangin 61220771<br/>
+			Rivaldo Gowasa 61220744<br/>
+			Nicholas Theofelin Prassetia 11231385<br/>
+			Cintya Oktavia Sanda 62230303<br/>
 			</td>
 		</tr>
 		<tr>
 			<td>Divisi Kesekretariatan</td>
-			<td>
-			<strong>Levina Putri Santoso (11211067) - Koordinator</strong><br/>
-			Yosua Kurniawan (11211140)<br/>
-			Yoan Fenie C.K (12200545)<br/>
-			Dorothy Kalista E. (61220763)<br/>
-			Rafael Jonathan K. (11221267)<br/>
-			Rosi Febriyani (62200155)<br/>
+			<td>Pendamping Divisi Perlengkapan: Teri Gloryana Mesepi, A.Md.<br/>
+			<strong>Leonardo Timothy 11221288 - Koordinator</strong><br/>
+			I Made Krisna Mahardika 11211132<br/>
+			Kezia angelina hermawan 62230296<br/>
+			Leony cleo soesanto 11231363<br/>
+			Vannesa rupina simangunson 71231024<br/>
+			Alldo suprianto 12220673<br/>
+			Resa Fitria 72200368<br/>
 			</td>
 		</tr>
 		<tr>
 			<td>Divisi Kesehatan</td>
-			<td>Pendamping Divisi Kesehatan: dr. Katherina Adisaputro<br/>
-			<strong>Maydeline Kezia Puspa Negoro (41210574) - Koordinator</strong><br/>
-			Gabriella Danesta Vinkanova Asmara (41210536)<br/>
-			Hilsazea Hartono (41210524)<br/>
-			Agnes Trixie Alfreda (41210537)<br/>
-			Chrystalline Esteria Sinaga (41220694)<br/>
-			Rehuella Sari M (41220637)<br/>
-			Jessica Karen Roberth (41220634)<br/>
-			Gratia Enggar Setyawan (41210532)<br/>
-			Berlian Nafthali Puspitha Santhi (41210575)<br/>
-			Naomy Permata Sauftiana Bharat (41220741)<br/>
-			Waku Maretan Suherlan (61220709)<br/>
-			Erigka Susanti (11211050)
+			<td>Pendamping Divisi Kesehatan: dr. Pradita Sri Mitasari, M.Med., Sp.KK.<br/>
+			<strong>Berlian Nafthali Puspitha Santhi 41210575  - Koordinator</strong><br/>
+			Hilsazea Hartono 41210524<br/>
+			Gabriella Danesta V. A 41210536<br/>
+			Agnes Trixie Alfreda 41210537<br/>
+			Amarya Try Nugraha Seno Putra 41220653<br/>
+			Heaven Agung Firstiawan 41220686<br/>
+			Benediktus Satria Trisnawan 41220704<br/>
+			Christien Carla Bambuta 41220717<br/>
+			Carlla Delianty Lawani 41220727<br/>
+			I Made Suryana Saputra 41220738<br/>
+			Charista Prasasti Nawangwulan 41230770<br/>
+			James Henry Wijaya 41220718<br/>
+			Katharina Karindra Djorgie 41230753<br/>
+			Eriani Delina Akob 72210518<br/>
+			Waku Maretan Suherlan 61220709<br/>
 			</td>
 		</tr>
 		<tr>
 			<td>Divisi Konsumsi</td>
 			<td>
-			<strong>Eunisia Purba (71210770) - Koordinator</strong><br/>
-			Jenny Rumiris Marpaung (71220886)<br/>
-			Yohanes Prasetyo Nugroho (71210811)<br/>
-			Clariza Ardya Pramesti Trissenda (62200172)<br/>
-			Christine Latekay (11200930)<br/>
-			Kilo Raja Doharsius Maringga (11190797)<br/>
-			Excelsior Valentino Yonathan (71210785)<br/>
+			<strong>Mikael Erlangga Nafiri Nugraha 62210199 - Koordinator</strong><br/>
+			Samuel Nicholas Suyoso 62210195<br/>
+			Nathania Clarisa Arivo 62210202<br/>
+			Angela Keiko 62230286<br/>
+			Edgar Timoti Damanik 11211175<br/>
+			Kristiana Simarmata 11211154<br/>
+			Mawar Marcellina Sianipar 11211111<br/>
+			Maria Cantika Manullang 11211134<br/>
+			Vincent Tantowi 11211119<br/>
+			Maria Sintikhe Yunita Palpialiy 11211085<br/>
+			Abelia Grace Sarapung Nae 11221331<br/>
+			Febryan Uneputty 11211168<br/>
 			</td>
 		</tr>
 		<tr>
@@ -160,68 +173,64 @@
 			<td>
 			<strong>I Made Azriel Jonathan P.D (41210560) - Koordinator I<br/>
 			Kenaz Manuel Chris N. (72200438) - Koordinator II</strong><br/>
-			Michael Rendy Giovanni (61190407)<br/>
-			Hanindito Bagas R. (11211176) <br/>
-			Daniel Walter Kristiadi H. (61200531)<br/>
-			Tanti Winda Asrani Manullang (12210631)<br/>
-			Guido Lothar Anargha Datta (11190783)<br/>
-			Keren Januar Kristanti (41220656)<br/>
-			Fidela Derby Enjuariva (11221328)<br/>
-			Gian Lionel Setyawan (62200182)<br/>
-			Aqilla Amanda Theedens (41220639)<br/>
-			Richard Anderson (61190496)<br/>
-			I Komang Aditya Abimanyu (72190297)<br/>
-			Em Alatta br Sembiring (12210660)<br/>
-			Brivynda Sangirta Bella (41210628)<br/>
-			Ni Made Githa A.J (71210791)<br/>
-			Irenne Dwita Natalia (71210752)<br/>
-			Tumimman Kevin Keasada Buulolo (61200546)<br/>
-			Fandy Hertanto (71200532)<br/>
-			Pri Valen Naiborhu (11211145)<br/>
-			Yulla Aryyana (62210235)<br/>
-			Vincent Yenjria (61220745)<br/>
-			Dania Liem Oktaviona Angelika (11200978)<br/>
-			Wendy Anderson Cu (11211123)<br/>
-			Yohanes Dewantara (72220531)<br/>
-			Hanz Elkasava Girsang (01190228)<br/>
-			Dedi Yanto (71200593)<br/>
-			Cllevise Harsono (11221238)<br/>
-			Rivaldo Gowasa (61220744)<br/>
-			Joshua Robert Kurniawan (12220677)<br/>
-			Edo Adin Nugraha Tambunan (11190803)<br/>
-			Febfrianti (12220608)<br/>
-			Meredith Suhutama Manurung (61190416)<br/>
-			Odilio Ganesha Nugroho (71210739)<br/>
-			Maria Eka Wahyuningtyas (12210650)<br/>
-			Abraham Kale' Duma' (61220770)<br/>
-			Dwi Krisnawan Rose (61220767)<br/>
-			Zellyne Octaviani (72210468)<br/>
-			Kenny Jessica Aurora Clara Devta (81220140)<br/>
-			Carolus Yasser Rombebunga (81220149)<br/>
-			Anggryani Layuk Mangayun (71220917)<br/>
-			Timotius Ekana Tejo Kesuma (71220829)<br/>
-			Queen Alfa Milka Kriswandi (81220139)<br/>
-			Kristin Julianti Sinaga (11201019)
+			Joshua Robert Kurniawan 12220677<br/>
+			Hanindito Bagas R. (11211176)<br/>
+			Brivynda Sangirta Bella 41210628<br/>
+			Rodelin Soteria Christmas Handono 12220680<br/>
+			Hanindito Bagas Ramadhantio 11211176<br/>
+			Billy Kurniawan Santoso 62230301<br/>
+			Refinaldi Anugrah 11211064<br/>
+			Pradipta Triatmaja Purwa Nugraha 72220596<br/>
+			Princess Helena Parinussa 62220270<br/>
+			Christna Rajasa Putra 11221242<br/>
+			Vincentius Yenjria Endbinefrans Mahendi 61220745<br/>
+			Elisabeth Irena Wijaya 12210656<br/>
+			Meganata Kutho Putri 12210643<br/>
+			Mikhael Lev Hasiholan Nainggolan 71230991<br/>
+			Cahyo Ontoseno 12230724<br/>
+			Jesica Br.Tarigan 12230745<br/>
+			Indi Anjelita Ziliwu 12230754<br/>
+			Clara Angelita Karunia Dewi 72230607<br/>
+			Joshua Andrean Mulyadinata 72230617<br/>
+			Fania Angel Keruxa Euanggelia Bowono 81230163<br/>
+			Johan Setiawan 81230160<br/>
+			Adriel Christian 11231411<br/>
+			Aurianty Deyana 41210540<br/>
+			Ezra Kristanto Nahumury 71220849<br/>
+			Kenya Syalwa Arifia 71231025<br/>
+			Devina Relian 62230274<br/>
+			Juniarta Yolanda Sinaga 71210789<br/>
+			Joyce Yihan Ongsor 11211142<br/>
+			Elche Marcllia 11221319<br/>
+			Fitriane Bulu 11221251<br/>
+			Friska Veronika Simanjuntak 31210426<br/>
+			Ling Miyati 11211133<br/>
+			Jovan Marllen Yulianto 72230608<br/>
+			Ivan Putra krisnugraha 72220556<br/>
+			Febfrianti 12220682<br/>
+			Samuel Bangkit Prakoso 62230298<br/>
+			Steven 12220675<br/>
+			Christian Nicholas Saputra 71231021<br/>
+			Jules Soteria P Y Pao 71231012<br/>
+			Timoteus Gopas Saragih 11201015<br/>
+			Louri Angkasa S Djaya Djando 12230734<br/>
+			Raven Ezra Angkoso 72230613<br/>
+			Carolus Yasser Rombebunga 81220149<br/>
 			</td>
 		</tr>
 		<tr>
 			<td>Divisi Pengawasan</td>
 			<td>
-			<strong>Johanes Marlive Makasale (61190453) - Koordinator</strong><br/>
-			Aryos Dirgantara Sihombing (72190248)<br/>
-			Brandon Mark Cawaro Uboro (61200537)<br/>
-			Alvredo Sibuea (11190691)<br/>
-			Richardo kamawa (11201024)<br/>
-			Jascha Fabio Petta (72190309)<br/>
-			Aren Kristianto Balamawu (11211077)<br/>
-			Fanuel Pauly Roni Aronggear (11211195)<br/>
-			Alessandro Mario Luciano Souisa (81190076)<br/>
-			Gabriel Renaldi Manullang (11201005)<br/>
-			Stevent Bagus Putra Pratama (11200895)<br/>
-			Rut Lionny (62190136)<br/>
-			Martina F Sainyakit (61190422)<br/>
-			Sekar Kemangi (12220671)<br/>
-			Agatha Crhisty (11201009)
+			<strong>Desmond Cristanel Pongliling 11211165 - Koordinator</strong><br/>
+			Timothy Kevin Basudewo Isliko 82230001<br/>
+			Rizky Bayu Wibowo 11221324<br/>
+			Anastasya Wahyuning Kusuma 82230006<br/>
+			Amelia Agustin 71231038<br/>
+			Valentinus Indratua Sinaga 11211072<br/>
+			Alberth N L S Watori 71220921<br/>
+			Justin Julian Susilo 81220146<br/>
+			Risky Josefhin Hutabarat 11211052<br/>
+			Richardo kamawa 11201024<br/>
 			</td>
 		</tr>
 	</tbody>
