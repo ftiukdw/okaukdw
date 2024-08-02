@@ -1,18 +1,18 @@
 ---
-Title: OKA 2023
-Description: Halaman OKA UKDW 2023
+Title: OKA 2024
+Description: Halaman OKA UKDW 2024
 ---
 
-## Selamat Datang di Halaman OKA 2023
+## Selamat Datang di Halaman OKA 2024
 
 OKA (Orientasi Kehidupan Akademika) merupakan kegiatan pertama yang akan diikuti oleh semua mahasiswa baru dalam rangka mempersiapkan diri untuk memasuki lingkungan yang baru.
 Kegiatan ini bertujuan untuk memberikan bekal informasi tentang UKDW secara lengkap, termasuk informasi dari program studi masing-masing.
 
-Untuk tahun 2023, pelaksanaan OKA akan dilakukan secara offline dengan tetap mengikuti protokol kesehatan yang telah ditentukan oleh pemerintah dan tim satgas COVID UKDW.
+Untuk tahun 2024, pelaksanaan OKA akan dilakukan secara offline dengan tetap mengikuti protokol kesehatan yang telah ditentukan oleh pemerintah dan tim satgas COVID UKDW.
 
-## Jadwal Pelaksanaan OKA 2023
+## Jadwal Pelaksanaan OKA 2024
 
-OKA 2023 akan dilaksanakan pada tanggal 21-26 Agustus 2023.
+OKA 2024 akan dilaksanakan pada tanggal 19-24 Agustus 2024.
 
 Setiap peserta OKA harus mengikuti setiap acara yang sudah dipersiapkan oleh panitia.
 
