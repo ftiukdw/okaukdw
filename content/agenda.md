@@ -66,6 +66,7 @@ Description: Halaman OKA UKDW 2024
     </tbody>
 </table>
 
+<strong>20 Agustus 2024</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
@@ -77,16 +78,21 @@ Description: Halaman OKA UKDW 2024
     <tbody>
         <tr>
             <td>1</td>
-            <td>08:30 – 09:00</td>
-            <td>Persiapan</td>
+            <td>07:30 – 08:00</td>
+            <td>Kedatangan</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>09:00 – 12:00</td>
-            <td>Pengenalan Lingkungan Kampus</td>
+            <td>00:00 – 08:30</td>
+            <td>Persiapan</td>
         </tr>
         <tr>
             <td>3</td>
+            <td>08:30 – 12:00</td>
+            <td>Pengenalan Lingkungan Kampus</td>
+        </tr>
+        <tr>
+            <td>4</td>
             <td>12:00 – 12.45</td>
             <td>Istirahat</td>
         </tr>
