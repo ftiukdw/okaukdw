@@ -173,28 +173,33 @@ Description: Halaman OKA UKDW 2024
     <tbody>
         <tr>
             <td>1</td>
-            <td>08:15 – 08:45</td>
-            <td>Persiapan</td>
+            <td>07:30 – 08:00</td>
+            <td>Kedatangan</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>08:45 – 12:30</td>
-            <td>OKA Zone dan Foto Kelompok</td>
+            <td>08:00 – 08:30</td>
+            <td>Persiapan</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>12:30 – 13.15</td>
-            <td>Istirahat</td>
+            <td>08:30 – 11:30</td>
+            <td>OKA Zone dan Foto Kelompok</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>13.15 – 14.45</td>
+            <td>11:30 – 12.15</td>
+            <td>Istirahat</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>12.15 – 13.45</td>
             <td>Dinamika Kelompok</td>
         </tr>
     </tbody>
 </table>
 
-<strong>25 Agustus 2024<br/>
+<strong>23 Agustus 2024<br/>
 OKA Prodi</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
@@ -205,30 +210,35 @@ OKA Prodi</strong><br/>
         </tr>
     </thead>
     <tbody>
-        <tr>
+         <tr>
             <td>1</td>
-            <td>07.15 – 08.05</td>
-            <td>Persiapan</td>
+            <td>06.30 – 07.00</td>
+            <td>Kedatangan</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>08.20 – 12.00</td>
-            <td>OKA Prodi</td>
+            <td>07.00 – 08.05</td>
+            <td>Persiapan</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>12:00 – 13.00</td>
-            <td>Istirahat</td>
+            <td>08.05 – 12.05</td>
+            <td>OKA Prodi</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>13.00 – 15.00</td>
+            <td>12:05 – 13.05</td>
+            <td>Istirahat</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>13.05 – 14.05</td>
             <td>Dinamika Kelompok</td>
         </tr>
     </tbody>
 </table>
 
-<strong>26 Agustus 2024<br/>
+<strong>24 Agustus 2024<br/>
 Penutupan OKA</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
@@ -241,28 +251,33 @@ Penutupan OKA</strong><br/>
     <tbody>
         <tr>
             <td>1</td>
-            <td>08.45 – 09.00</td>
-            <td>Persiapan</td>
+            <td>09.00 – 09.30</td>
+            <td>Kedatangan</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>09.00 – 11.30</td>
-            <td>Dinamika Kelompok</td>
+            <td>09.30 – 10.00</td>
+            <td>Persiapan</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>11.30 – 12.00</td>
-            <td>Istirahat</td>
+            <td>10.00 – 10.30</td>
+            <td>Dinamika Kelompok</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>12.00 – 12.30</td>
-            <td>Masuk ke GOR</td>
+            <td>10.30 – 11.00</td>
+            <td>Istirahat</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>12.30 – 12.50</td>
-            <td>Dokumentasi OKA Day 1-5</td>
+            <td>11.00 – 11.45</td>
+            <td>Memasuki GOR</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>11.45 – 16.45</td>
+            <td>Inagurasi</td>
         </tr>
         <tr>
             <td>6</td>
@@ -271,7 +286,7 @@ Penutupan OKA</strong><br/>
         </tr>
         <tr>
             <td>7</td>
-            <td>16.00 – 16.15</td>
+            <td>16.45 – 16.50</td>
             <td>Penutupan</td>
         </tr>
     </tbody>
