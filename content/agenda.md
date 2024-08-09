@@ -4,7 +4,7 @@ Description: Halaman OKA UKDW 2024
 ---
 
 ## Agenda OKA 2024*
-<strong>19 dan 24 Agustus 2024</strong><br/>
+<strong>19 Agustus 2024</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
@@ -16,40 +16,51 @@ Description: Halaman OKA UKDW 2024
     <tbody>
         <tr>
             <td>1</td>
-            <td>07:30 – 08:00</td>
-            <td>Persiapan</td>
+            <td>06:30 – 07:00</td>
+            <td>Kedatangan</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>08:00 – 09:35</td>
-            <td>Pembukaan</td>
+            <td>07:00 – 08:00</td>
+            <td>Persiapan</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>09.35 – 11.50</td>
-            <td>Penyampaian Materi:<br/>
-            - Visi Misi Kedutawacanaan<br/>
-            - Spiritualitas Kawula Muda dalam Menghayati Nilai-Nilai Kedutawacanaan<br/>
-            - Berbudaya dan Beretika di Tanah Istimewa</td>
+            <td>08:00 – 09:20</td>
+            <td>Pembukaan</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>11.50 – 12.35</td>
-            <td>Istirahat</td>
+            <td>09.30 – 12.25</td>
+            <td>Penyampaian Materi:<br/>
+            - Materi 1 : Visi-Misi Ke Duta Wacanaan <br/>
+            - Materi 2 : Etika dan Wisata Lokal <br/>
+            - Materi 3 : Mencegah Adanya Kekerasan Seksual, Agar Tidak Terjadi Self Diagnose</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>12.35 – 12.50</td>
-            <td>Ice Breaking</td>
+            <td>12.25 – 1315</td>
+            <td>Istirahat</td>
         </tr>
         <tr>
             <td>6</td>
-            <td>12.50 – 14.15</td>
-            <td>Pengenalan Unit Kampus</td>
+            <td>13.55 – 13.35</td>
+            <td>Ice Breaking</td>
         </tr>
         <tr>
             <td>7</td>
-            <td>14.45 – 16.15</td>
+            <td>13.35 – 14.55</td>
+            <td>Penyampaian Materi:<br/>
+            - Materi 4 : Kampus sehat komunitas berkualitas  <br/>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>14.55 – 15.25</td>
+            <td>Penutup</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>15.25 – 16.35</td>
             <td>Dinamika Kelompok</td>
         </tr>
     </tbody>
