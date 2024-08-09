@@ -4,7 +4,7 @@ Description: Halaman OKA UKDW 2024
 ---
 
 ## Agenda OKA 2024*
-<strong>19 Agustus 2024</strong><br/>
+<strong>Senin, 19 Agustus 2024</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
@@ -66,7 +66,7 @@ Description: Halaman OKA UKDW 2024
     </tbody>
 </table>
 
-<strong>20 Agustus 2024</strong><br/>
+<strong>Selasa, 20 Agustus 2024</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
@@ -104,7 +104,7 @@ Description: Halaman OKA UKDW 2024
     </tbody>
 </table>
 
-<strong>21 Agustus 2024</strong><br/>
+<strong>Rabu, 21 Agustus 2024</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
@@ -161,7 +161,7 @@ Description: Halaman OKA UKDW 2024
     </tbody>
 </table>
 
-<strong>22 Agustus 2024</strong><br/>
+<strong>Kamis, 22 Agustus 2024</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
@@ -199,7 +199,7 @@ Description: Halaman OKA UKDW 2024
     </tbody>
 </table>
 
-<strong>23 Agustus 2024<br/>
+<strong>Jumat, 23 Agustus 2024<br/>
 OKA Prodi</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
@@ -238,7 +238,7 @@ OKA Prodi</strong><br/>
     </tbody>
 </table>
 
-<strong>24 Agustus 2024<br/>
+<strong>Sabtu, 24 Agustus 2024<br/>
 Penutupan OKA</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
