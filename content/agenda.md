@@ -156,7 +156,7 @@ Description: Halaman OKA UKDW 2024
         <tr>
             <td>7</td>
             <td>15.10 – 16.30</td>
-            <td>Penutup  Dinamika Kelompok</td>
+            <td>Penutup &amp; Dinamika Kelompok</td>
         </tr>
     </tbody>
 </table>
