@@ -280,11 +280,6 @@ Penutupan OKA</strong><br/>
             <td>Inagurasi</td>
         </tr>
         <tr>
-            <td>6</td>
-            <td>13.00 – 16.00</td>
-            <td>Inaugurasi</td>
-        </tr>
-        <tr>
             <td>7</td>
             <td>16.45 – 16.50</td>
             <td>Penutupan</td>
