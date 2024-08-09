@@ -89,7 +89,7 @@ Description: Halaman OKA UKDW 2024
         <tr>
             <td>3</td>
             <td>08:30 – 12:00</td>
-            <td>Pengenalan Lingkungan Kampus</td>
+            <td>Pengenalan Lingkungan Kampus (OKA Tour)</td>
         </tr>
         <tr>
             <td>4</td>
@@ -104,7 +104,7 @@ Description: Halaman OKA UKDW 2024
     </tbody>
 </table>
 
-<strong>23 dan 24 Agustus 2024</strong><br/>
+<strong>21 Agustus 2024</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
@@ -114,47 +114,54 @@ Description: Halaman OKA UKDW 2024
         </tr>
     </thead>
     <tbody>
-        <tr>
+         <tr>
             <td>1</td>
-            <td>07:30 - 08:00</td>
-            <td>Persiapan</td>
+            <td>06:30 - 06:40</td>
+            <td>Kedatangan</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>08:00 - 9:15</td>
-            <td>Pengenalan BEMU/BPMU</td>
+            <td>06:45 - 07:30</td>
+            <td>Persiapan</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>09.15 – 12.15</td>
+            <td>07:30 - 11:55</td>
             <td>Penyampaian Materi:<br/>
-            - Transformasi dan Tantangan bagi Kawula Muda<br/>
-            - Jangan Takut Tambah Dewasa</td>
+            - Materi 5 : Pengenalan Unit Kampus<br/>
+            - Materi 6 : Pengenalan BEMU & BPMU<br/>
+            - Materi 7 : Bela Negara dan Anti Narkotika</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>12.15 – 13.00</td>
+            <td>11.55 – 12.40</td>
             <td>Istirahat</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>13.00 – 13.55</td>
+            <td>12.40 – 13.55</td>
             <td>Penyampaian Materi:<br/>
-            - Aku Kamu Lawan Kekerasan Seksual</td>
+            - Materi 8 : How to Balance College Life<br/>
         </tr>
         <tr>
             <td>6</td>
-            <td>13.55 – 14.55</td>
+            <td>13.55 – 14.10</td>
+            <td>Sosialisasi Launching UKDW Career Portal</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>14.10 – 15.10</td>
             <td>Pengenalan Panitia OKA</td>
         </tr>
         <tr>
             <td>7</td>
-            <td>14.55 – 16.15</td>
-            <td>Dinamika Kelompok</td>
+            <td>15.10 – 16.30</td>
+            <td>Penutup  Dinamika Kelompok</td>
         </tr>
     </tbody>
 </table>
 
+<strong>22 Agustus 2024</strong><br/>
 <table style="width: 100%; max-width: 40em;">
     <thead>
         <tr>
